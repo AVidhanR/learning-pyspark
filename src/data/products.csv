@@ -1,0 +1,201 @@
+product_id,product_name,category,unit_price
+P0001,Beauty item 1,Beauty,151.58 USD
+P0002,Beauty item 2,Beauty,139.39 USD
+P0003,Books item 3,Books,46.87
+P0004,Sports item 4,Sports,874.89
+P0005,Books item 5,books,3.32
+P0006,Beauty item 6,Beauty,552.97
+P0007,Home item 7,home & kitchen,434
+P0008,Home item 8,home & kitchen,353.94
+P0009,Home item 9,HOME & KITCHEN,751.39
+P0010,Toys item 10,Toys,113.75
+P0011,Toys item 11,toys,$130.74
+P0012,Sports item 12,SPORTS,282.11
+P0013,Beauty item 13,Beauty,$396.13
+P0014,Home item 14,Home & Kitchen,66.15
+P0015,Books item 15,BOOKS,854.69
+P0016,Beauty item 16,Beauty,$421.47
+P0017,Toys item 17,toys,683
+P0018,Sports item 18,Sports,863.88 USD
+P0019,Toys item 19,Toys,$753.53
+P0020,Books item 20,Books,$758.57
+P0021,Books item 21,Books,379.42
+P0022,Electronics item 22,Electronics,642.65
+P0023,Toys item 23,TOYS,$600.07
+P0024,Sports item 24,Sports,547.16 USD
+P0025,Beauty item 25,Beauty,$346.18
+P0026,Electronics item 26,ELECTRONICS,519.34
+P0027,Beauty item 27,Beauty,$639.25
+P0028,Electronics item 28,Electronics,314.53
+P0029,Sports item 29,  Sports ,$36.44
+P0030,Toys item 30,TOYS,603.15
+P0031,Books item 31,Books,$91.63
+P0032,Books item 32,Books,325
+P0033,Books item 33,BOOKS,403
+P0034,Books item 34,books,692.44 USD
+P0035,Beauty item 35,Beauty,291.73 USD
+P0036,Toys item 36,  Toys ,$771.41
+P0037,Home item 37,  Home & Kitchen ,286.93
+P0038,Toys item 38,Toys,283.69
+P0039,Books item 39,Books,770.81
+P0040,Books item 40,Books,680.03
+P0041,Sports item 41,Sports,281.54
+P0042,Sports item 42,  Sports ,485.81
+P0043,Electronics item 43,Electronics,641.36 USD
+P0044,Home item 44,Home & Kitchen,645
+P0045,Electronics item 45,Electronics,$760.97
+P0046,Sports item 46,SPORTS,514.39
+P0047,Electronics item 47,electronics,223.58
+P0048,Home item 48,Home & Kitchen,750.42
+P0049,Beauty item 49,BEAUTY,731
+P0050,Sports item 50,Sports,436
+P0051,Home item 51,Home & Kitchen,$372.85
+P0052,Toys item 52,Toys,672.87 USD
+P0053,Books item 53,  Books ,389.89
+P0054,Sports item 54,Sports,323.30 USD
+P0055,Beauty item 55,Beauty,224
+P0056,Sports item 56,Sports,638.39 USD
+P0057,Home item 57,Home & Kitchen,648.94
+P0058,Home item 58,Home & Kitchen,$420.36
+P0059,Toys item 59,TOYS,533.18
+P0060,Toys item 60,TOYS,504.42 USD
+P0061,Home item 61,  Home & Kitchen ,60.21
+P0062,Books item 62,Books,852.77
+P0063,Beauty item 63,BEAUTY,$688.64
+P0064,Books item 64,Books,485.94
+P0065,Sports item 65,SPORTS,$851.80
+P0066,Books item 66,Books,$776.87
+P0067,Sports item 67,Sports,110.36
+P0068,Beauty item 68,beauty,$147.60
+P0069,Home item 69,HOME & KITCHEN,$752.66
+P0070,Books item 70,Books,83
+P0071,Toys item 71,  Toys ,725.01 USD
+P0072,Home item 72,  Home & Kitchen ,88.99 USD
+P0073,Toys item 73,toys,84.39
+P0074,Beauty item 74,  Beauty ,570.81
+P0075,Electronics item 75,ELECTRONICS,$791.73
+P0076,Electronics item 76,Electronics,154.16
+P0077,Toys item 77,Toys,277.72
+P0078,Electronics item 78,electronics,860.27
+P0079,Home item 79,HOME & KITCHEN,878.27
+P0080,Books item 80,Books,517.86 USD
+P0081,Home item 81,Home & Kitchen,$458.07
+P0082,Sports item 82,Sports,800
+P0083,Books item 83,Books,99.67
+P0084,Electronics item 84,Electronics,449
+P0085,Toys item 85,Toys,835.96
+P0086,Electronics item 86,ELECTRONICS,602.83
+P0087,Toys item 87,Toys,172
+P0088,Toys item 88,Toys,730.38 USD
+P0089,Electronics item 89,ELECTRONICS,763
+P0090,Sports item 90,Sports,518.85
+P0091,Home item 91,HOME & KITCHEN,256.46
+P0092,Beauty item 92,Beauty,385.41
+P0093,Electronics item 93,Electronics,291.40
+P0094,Books item 94,Books,694.45
+P0095,Electronics item 95,Electronics,278.49
+P0096,Beauty item 96,null,284.35
+P0097,Books item 97,BOOKS,867.88 USD
+P0098,Beauty item 98,Beauty,$459.01
+P0099,Electronics item 99,ELECTRONICS,819.86 USD
+P0100,Beauty item 100,Beauty,290.32
+P0101,Sports item 101,Sports,$16.99
+P0102,Books item 102,books,7.25 USD
+P0103,Home item 103,Home & Kitchen,888.42 USD
+P0104,Electronics item 104,Electronics,142.87
+P0105,Toys item 105,Toys,613.31
+P0106,Beauty item 106,beauty,663.76
+P0107,Toys item 107,Toys,$341.29
+P0108,Books item 108,Books,$541.32
+P0109,Toys item 109,Toys,118.61
+P0110,Home item 110,Home & Kitchen,812.29
+P0111,Beauty item 111,Beauty,233.08
+P0112,Sports item 112,Sports,$259.94
+P0113,Toys item 113,Toys,741.12
+P0114,Toys item 114,Toys,183.11
+P0115,Electronics item 115,Electronics,$208.09
+P0116,Electronics item 116,Electronics,219.85
+P0117,Sports item 117,Sports,693
+P0118,Home item 118,N/A,653.24
+P0119,Books item 119,  Books ,$829.89
+P0120,Toys item 120,Toys,343.89
+P0121,Beauty item 121,Beauty,177.32 USD
+P0122,Electronics item 122,Electronics,759.55
+P0123,Sports item 123,SPORTS,867.87
+P0124,Sports item 124,Sports,18.66
+P0125,Electronics item 125,ELECTRONICS,131.71
+P0126,Sports item 126,  Sports ,55.40 USD
+P0127,Beauty item 127,-,35
+P0128,Beauty item 128,Beauty,349
+P0129,Home item 129,Home & Kitchen,616
+P0130,Toys item 130,Toys,432.78 USD
+P0131,Home item 131,Home & Kitchen,133
+P0132,Books item 132,null,794.10
+P0133,Toys item 133,Toys,371
+P0134,Home item 134,  Home & Kitchen ,756.60
+P0135,Toys item 135,Toys,416.14
+P0136,Books item 136,  Books ,295.43
+P0137,Home item 137,Home & Kitchen,$642.19
+P0138,Sports item 138,Sports,$328.98
+P0139,Books item 139,books,580.67
+P0140,Beauty item 140,Beauty,408.73 USD
+P0141,Toys item 141,toys,48.64
+P0142,Toys item 142,Toys,843.60
+P0143,Home item 143,Home & Kitchen,$349.22
+P0144,Sports item 144,Sports,693.01 USD
+P0145,Home item 145,Home & Kitchen,371.93
+P0146,Toys item 146,Toys,$286.64
+P0147,Electronics item 147,Electronics,609.54
+P0148,Electronics item 148,ELECTRONICS,300.36
+P0149,Beauty item 149,beauty,138.09
+P0150,Books item 150,Books,$526.35
+P0151,Books item 151,Books,275.01 USD
+P0152,Home item 152,Home & Kitchen,375.42
+P0153,Sports item 153,Sports,566.93 USD
+P0154,Home item 154,Home & Kitchen,878.58
+P0155,Electronics item 155,  Electronics ,124.63
+P0156,Electronics item 156,Electronics,528.80
+P0157,Sports item 157,Sports,166
+P0158,Sports item 158,  Sports ,311.41
+P0159,Home item 159,  Home & Kitchen ,124.04
+P0160,Beauty item 160,Beauty,$179.83
+P0161,Electronics item 161,Electronics,$321.18
+P0162,Sports item 162,sports,377.71
+P0163,Books item 163,null,884
+P0164,Electronics item 164,Electronics,586
+P0165,Books item 165,Books,39.29
+P0166,Electronics item 166,ELECTRONICS,302
+P0167,Electronics item 167,ELECTRONICS,662
+P0168,Toys item 168,Toys,351.39
+P0169,Books item 169,Books,723.42
+P0170,Books item 170,  Books ,121.71
+P0171,Books item 171,Books,242.21
+P0172,Beauty item 172,Beauty,822.27
+P0173,Home item 173,HOME & KITCHEN,726.19
+P0174,Home item 174,home & kitchen,516.00
+P0175,Beauty item 175,Beauty,$15.06
+P0176,Home item 176,Home & Kitchen,$525.73
+P0177,Books item 177,BOOKS,$708.16
+P0178,Home item 178,Home & Kitchen,$826.45
+P0179,Electronics item 179,Electronics,6.45
+P0180,Electronics item 180,Electronics,350.05 USD
+P0181,Beauty item 181,Beauty,889.17
+P0182,Beauty item 182,Beauty,533.86
+P0183,Electronics item 183,electronics,160.74
+P0184,Home item 184,Home & Kitchen,630.87
+P0185,Books item 185,books,681.39 USD
+P0186,Books item 186,Books,542.59
+P0187,Books item 187,Books,663
+P0188,Books item 188,books,255.46
+P0189,Beauty item 189,Beauty,$57.18
+P0190,Beauty item 190,Beauty,403.00
+P0191,Books item 191,Books,629.17
+P0192,Beauty item 192,Beauty,756.23
+P0193,Toys item 193,Toys,$272.32
+P0194,Home item 194,HOME & KITCHEN,529.74
+P0195,Toys item 195,Toys,293.96
+P0196,Toys item 196,TOYS,408.60
+P0197,Electronics item 197,Electronics,786.41 USD
+P0198,Home item 198,HOME & KITCHEN,$361.28
+P0199,Home item 199,Home & Kitchen,138.48
+P0200,Toys item 200,-,137.46

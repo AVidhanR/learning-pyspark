@@ -1,0 +1,1041 @@
+customer_id,full_name,email,country,signup_date,age
+1,PRIYA SMITH,priya.smith1@example.com,Deutschland,2020-05-16,32
+2,james okafor,james.okafor2@example.com,Canada,09/05/2021,32
+3,  Noah Patel ,noah.patel3@example.com,us,2021-02-17,24
+4,Amara Brown,amara.brown4@example.com,Canada,2020/01/29,63
+5,Olivia Nguyen,olivia.nguyen5@example.com,DE,2020-12-28,31
+6,kenji silva,KENJI.SILVA6@EXAMPLE.COM,germany,2023-09-23,67
+7,Noah Okafor,noah.okafor7@example.com,india ,03-21-2021,74
+8,OLIVIA SILVA,OLIVIA.SILVA8@EXAMPLE.COM,england,2021-11-09,49
+9,Omar Muller,omar.muller9@example.com,canada,2023-10-29,-1
+10,JAMES MULLER,james.muller10@example.com,canada,10/04/2023,29
+11,James Khan,james.khan11@example.com,India,2019-02-09,25
+12,Grace Chen,grace.chen12@example.com,canada,2023-04-18,26
+13,Liam Rossi,liam.rossi13@example.com,India,2022-10-07,59
+14,SOFIA SMITH,SOFIA.SMITH14@EXAMPLE.COM,United States of America,2022-12-20,58
+15,carlos dubois,CARLOS.DUBOIS15@EXAMPLE.COM,england,2023-05-26,48
+16,PRIYA GARCIA,priya.garcia16@example.com,IN,2023-01-31,39
+17,Wei Lopez,WEI.LOPEZ17@EXAMPLE.COM,Canada,2019-07-20,21
+18,arjun garcia,arjun.garcia18@example.com,england,15/02/2021,18
+19,Grace Kim,grace.kim19@example.com,United Kingdom,2020-08-30,31
+20,Fatima Garcia,fatima.garcia20@example.com,Canada,Jun 14 2019,72
+21,  Mary Chen ,mary.chen21@example.com,india ,2022-09-08,55
+22,Amara Lopez,amara.lopez22@example.com,Germany,2023-03-20,77
+23,Olivia Chen,olivia.chen23@example.com,Great Britain,2021-01-26,36
+24,Priya Kim,priya.kim24@example.com,germany,2019-08-25,74
+25,grace muller,GRACE.MULLER25@EXAMPLE.COM,U.S.,2019-07-09,58
+26,JAMES PATEL,  james.patel26@example.com ,us,2022-11-16,75
+27,  Mary Brown ,mary.brown27@example.com,Great Britain,10-28-2022,33
+28,  Fatima Nguyen ,fatima.nguyen28@example.com,IN,2019-02-20,29
+29,  Mary Dubois ,mary.dubois29@example.com,UK,2020-02-13,70
+30,Wei Muller,wei.muller30@example.com,Germany,2022/08/06,50
+31,Kenji Garcia,kenji.garcia31@example.com,United States,2022-05-06,45
+32,Elena Smith,elena.smith32@example.com,CA,2023-07-10,52
+33,  Noah Patel ,noah.patel33@example.com,DE,2021-11-04,37
+34,fatima rossi,fatima.rossi34@example.com,india ,2022-01-27,150
+35,Grace Nguyen,GRACE.NGUYEN35@EXAMPLE.COM,USA,04/08/2020,50
+36,JAMES GARCIA,james.garcia36@example.com,UK,08-31-2021,57
+37,Carlos Smith,carlos.smith37@example.com,United States of America,2023-05-14,45
+38,Omar Khan,omar.khan38@example.com,IN,06-08-2022,70
+39,Sofia Muller,sofia.muller39@example.com,CA,2021-09-19,58
+40,Sofia Ivanova,sofia.ivanova40@example.com,UK,2022/12/17,31
+41,James Ivanova,james.ivanova41@example.com,Bharat,2019-01-13,78
+42,  Sofia Dubois ,sofia.dubois42@example.com,UK,2020/07/12,45
+43,James Ivanova,JAMES.IVANOVA43@EXAMPLE.COM,Canada,2022-03-01,60
+44,noah ivanova,NaN,Germany,20230321,78
+45,mary smith,MARY.SMITH45@EXAMPLE.COM,Great Britain,Feb 13 2020,71
+46,OLIVIA NGUYEN,olivia.nguyen46@example.com,Canada,2022-05-28,79
+47,Arjun Ivanova,ARJUN.IVANOVA47@EXAMPLE.COM,Great Britain,2019/06/05,55
+48,Mary Brown,  mary.brown48@example.com ,CA,2021-05-27,60
+49,Omar Kim,omar.kim49@example.com,Bharat,2019-12-27,64
+50,Noah Silva,noah.silva50@example.com,U.S.,2020-07-25,74
+51,Liam Brown,N/A,Germany,2020-11-28,35
+52,sofia dubois,sofia.dubois52@example.com,india ,2021-07-06,150
+53,NOAH BROWN,noah.brown53@example.com,IN,2020-07-08,37
+54,  Amara Patel ,amara.patel54@example.com,United Kingdom,20200829,32
+55,Carlos Dubois,carlos.dubois55@example.com,United States,2023-11-23,18
+56,WEI IVANOVA,WEI.IVANOVA56@EXAMPLE.COM,india ,2019-06-01,54
+57,elena silva,elena.silva57@example.com,canada,18/02/2021,46
+58,liam okafor,-,Deutschland,2022-09-14,23
+59,Omar Chen,omar.chen59@example.com,United Kingdom,2020-06-25,68
+60,Carlos Chen,carlos.chen60@example.com,United States,2019-12-06,68
+61,Kenji Dubois,  kenji.dubois61@example.com ,India,2019-06-14,56
+62,James Muller,james.muller62@example.com,Canada,20190324,66
+63,WEI DUBOIS,wei.dubois63@example.com,Deutschland,2021-04-16,39
+64,Mary Lopez,mary.lopez64@example.com,United States,06/10/2020,34
+65,Liam Brown,liam.brown65@example.com,CA,2023-03-30,49
+66,SOFIA NGUYEN,sofia.nguyen66@example.com,Deutschland,Feb 02 2022,18
+67,amara muller,amara.muller67@example.com,IN,2023/09/06,48
+68,Elena Khan,elena.khan68@example.com,Canada,2020-07-01,150
+69,arjun lopez,  arjun.lopez69@example.com ,Deutschland,2023-11-16,30
+70,Arjun Ivanova,arjun.ivanova70@example.com,england,2021-10-11,N/A
+71,  Elena Kim ,elena.kim71@example.com,U.S.,2021/08/19,68
+72,Noah Dubois,noah.dubois72@example.com,canada,2019-03-15,57
+73,PRIYA LOPEZ,priya.lopez73@example.com,U.K.,2022-11-22,37
+74,Fatima Nguyen,fatima.nguyen74@example.com,UK,2019-06-11,57
+75,James Lopez,  james.lopez75@example.com ,Deutschland,19/10/2022,52
+76,Arjun Dubois,arjun.dubois76@example.com,us,2020-04-30,42
+77,Mary Dubois,mary.dubois77@example.com,germany,08/05/2023,69
+78,Carlos Patel,carlos.patel78@example.com,U.S.,2020-09-24,68
+79,Olivia Muller,olivia.muller79@example.com,U.K.,2020/06/10,76
+80,SOFIA IVANOVA,sofia.ivanova80@example.com,canada,01-19-2021,23
+81,Olivia Patel,  olivia.patel81@example.com ,United Kingdom,23/08/2021,19
+82,Elena Patel,ELENA.PATEL82@EXAMPLE.COM,Great Britain,2019-04-03,78
+83,Elena Kim,elena.kim83@example.com,india ,2022-09-03,24
+84,  Olivia Patel ,  olivia.patel84@example.com ,Germany,Jan 20 2022,75
+85,LIAM SMITH,liam.smith85@example.com,United States of America,2023-05-31,39
+86,NOAH KIM,NOAH.KIM86@EXAMPLE.COM,Canada,2019-01-06,35
+87,OLIVIA SILVA,olivia.silva87@example.com,canada,2020-10-25,19
+88,Priya Lopez,priya.lopez88@example.com,CA,2020-03-29,78
+89,Grace Ivanova,GRACE.IVANOVA89@EXAMPLE.COM,IN,2022-11-06,24
+90,Noah Ivanova,NOAH.IVANOVA90@EXAMPLE.COM,canada,22/12/2021,36
+91,Liam Tanaka,liam.tanaka91@example.com,Bharat,2020-04-12,44
+92,GRACE CHEN,grace.chen92@example.com,United States of America,2023-08-31,23
+93,Priya Tanaka,priya.tanaka93@example.com,germany,25/11/2023,60
+94,Liam Kim,  liam.kim94@example.com ,IN,2020/04/04,72
+95,  James Muller ,N/A,United States of America,05/01/2020,35
+96,  James Chen ,  james.chen96@example.com ,canada,2020-03-16,42
+97,Mary Chen,mary.chen97@example.com,Germany,2021-06-26,60
+98,GRACE ROSSI,grace.rossi98@example.com,USA,03-27-2020,43
+99,grace tanaka,grace.tanaka99@example.com,U.K.,2019-09-22,
+100,Omar Chen,omar.chen100@example.com,Germany,20220325,45
+101,Omar Brown,omar.brown101@example.com,U.S.,06-13-2021,72
+102,  Wei Patel ,wei.patel102@example.com,Canada,2021-11-10,30
+103,Carlos Chen,carlos.chen103@example.com,Great Britain,02/05/2023,58
+104,  Noah Kim ,noah.kim104@example.com,India,2019-05-20,48
+105,Amara Chen,amara.chen105@example.com,United States,2022-06-13,56
+106,NOAH DUBOIS,noah.dubois106@example.com,canada,2019-11-05,none
+107,  Omar Lopez ,omar.lopez107@example.com,CA,06/12/2021,57
+108,noah chen,noah.chen108@example.com,DE,2019-07-13,53
+109,OLIVIA ROSSI,olivia.rossi109@example.com,india ,2019/09/22,56
+110,wei tanaka,wei.tanaka110@example.com,CA,2021-01-11,19
+111,Amara Patel,AMARA.PATEL111@EXAMPLE.COM,canada,2023-04-28,52
+112,fatima lopez,fatima.lopez112@example.com,us,2021-04-21,41
+113,Grace Okafor,grace.okafor113@example.com,Deutschland,20221021,78
+114,Carlos Muller,CARLOS.MULLER114@EXAMPLE.COM,United States,2022-08-06,48
+115,  Carlos Tanaka ,CARLOS.TANAKA115@EXAMPLE.COM,United States of America,2020-03-30,70
+116,  Sofia Smith ,-,DE,07-22-2019,71
+117,Wei Smith,wei.smith117@example.com,germany,2020-03-17,71
+118,Omar Chen,omar.chen118@example.com,USA,null,75
+119,Elena Nguyen,elena.nguyen119@example.com,United States of America,2021-12-08,80
+120,ARJUN BROWN,arjun.brown120@example.com,Germany,03-11-2023,19
+121,Mary Brown,mary.brown121@example.com,CA,24/11/2020,70
+122,Omar Garcia,  omar.garcia122@example.com ,Deutschland,20200217,20
+123,Liam Rossi,liam.rossi123@example.com,Deutschland,Nov 01 2023,67
+124,Arjun Khan,arjun.khan124@example.com,england,2021-10-13,62
+125,  Amara Khan ,amara.khan125@example.com,us,2019-06-13,38
+126,OLIVIA TANAKA,olivia.tanaka126@example.com,DE,20220802,80
+127,  Omar Garcia ,  omar.garcia127@example.com ,Great Britain,2019-05-18,33
+128,  Omar Chen ,omar.chen128@example.com,Canada,10-09-2019,51
+129,Priya Muller,priya.muller129@example.com,DE,2022-12-12,46
+130,Omar Chen,omar.chen130@example.com,DE,09-29-2022,40
+131,Olivia Silva,OLIVIA.SILVA131@EXAMPLE.COM,U.S.,2020-02-16,68
+132,Wei Chen,wei.chen132@example.com,Germany,2021-03-26,63
+133,Omar Brown,omar.brown133@example.com,england,2023-12-04,71
+134,carlos rossi,carlos.rossi134@example.com,U.K.,2019/11/28,38
+135,Kenji Kim,kenji.kim135@example.com,DE,12/06/2022,52
+136,Mary Smith,mary.smith136@example.com,us,04/04/2019,78
+137,Amara Rossi,amara.rossi137@example.com,IN,2020-05-16,69
+138,  Carlos Khan ,carlos.khan138@example.com,Germany,2023-02-12,73
+139,Sofia Kim,sofia.kim139@example.com,USA,2019/04/14,36
+140,  Liam Nguyen ,LIAM.NGUYEN140@EXAMPLE.COM,Bharat,20211120,47
+141,Mary Rossi,,Bharat,2022-05-08,74
+142,arjun brown,arjun.brown142@example.com,United States of America,2021-03-31,21
+143,  Priya Kim ,priya.kim143@example.com,USA,17/03/2021,
+144,Carlos Khan,CARLOS.KHAN144@EXAMPLE.COM,india ,2021-11-29,47
+145,Amara Khan,amara.khan145@example.com,CA,2023-08-24,50
+146,Amara Smith,amara.smith146@example.com,canada,2021-08-29,34
+147,ARJUN KIM,ARJUN.KIM147@EXAMPLE.COM,UK,2019-03-06,54
+148,Grace Garcia,grace.garcia148@example.com,UK,2021-11-28,31
+149,kenji dubois,kenji.dubois149@example.com,U.K.,05-19-2020,35
+150,GRACE BROWN,grace.brown150@example.com,CA,2023/06/17,64
+151,Amara Garcia,amara.garcia151@example.com,DE,2023/01/02,23
+152,kenji kim,kenji.kim152@example.com,USA,2022-06-14,65
+153,Priya Kim,priya.kim153@example.com,us,01/02/2022,80
+154,Amara Garcia,N/A,us,Aug 28 2022,54
+155,arjun dubois,ARJUN.DUBOIS155@EXAMPLE.COM,Great Britain,2023-03-14,79
+156,GRACE KIM,grace.kim156@example.com,CA,null,35
+157,Liam Nguyen,liam.nguyen157@example.com,canada,2023-10-20,58
+158,sofia smith,  sofia.smith158@example.com ,Germany,2021-02-24,33
+159,Priya Lopez,priya.lopez159@example.com,Germany,24/11/2019,43
+160,Sofia Silva,  sofia.silva160@example.com ,england,09-06-2021,27
+161,SOFIA CHEN,sofia.chen161@example.com,canada,Jul 03 2021,51
+162,Fatima Khan,fatima.khan162@example.com,CA,2021/06/23,25
+163,Omar Garcia,  omar.garcia163@example.com ,canada,2021-08-04,61
+164,wei garcia,WEI.GARCIA164@EXAMPLE.COM,us,2021-08-24,20
+165,Arjun Ivanova,arjun.ivanova165@example.com,USA,20221030,79
+166,Sofia Smith,sofia.smith166@example.com,USA,2020-09-03,47
+167,Priya Garcia,priya.garcia167@example.com,India,2022-06-13,67
+168,Sofia Garcia,sofia.garcia168@example.com,india ,2021-06-17,32
+169,Noah Silva,noah.silva169@example.com,DE,30/11/2023,27
+170,OLIVIA IVANOVA,  olivia.ivanova170@example.com ,CA,2020-10-14,62
+171,Carlos Lopez,CARLOS.LOPEZ171@EXAMPLE.COM,USA,2022-02-25,44
+172,olivia chen,olivia.chen172@example.com,Canada,2023-01-23,71
+173,Liam Dubois,LIAM.DUBOIS173@EXAMPLE.COM,United Kingdom,11-16-2023,76
+174,  Liam Ivanova ,liam.ivanova174@example.com,U.K.,2022-02-04,38
+175,Grace Khan,grace.khan175@example.com,U.K.,2021-01-29,38
+176,Amara Kim,amara.kim176@example.com,U.K.,2020-11-06,32
+177,GRACE LOPEZ,grace.lopez177@example.com,Great Britain,20230209,68
+178,wei garcia,NaN,us,2021-04-24,26
+179,GRACE DUBOIS,grace.dubois179@example.com,U.S.,2019-01-14,52
+180,Fatima Patel,fatima.patel180@example.com,us,2021-12-09,27
+181,Sofia Silva,sofia.silva181@example.com,Germany,2022-11-01,70
+182,James Nguyen,james.nguyen182@example.com,United States,Oct 20 2021,72
+183,Grace Muller,null,United States,20190602,61
+184,Arjun Chen,  arjun.chen184@example.com ,germany,2019-11-29,54
+185,WEI BROWN,wei.brown185@example.com,United States of America,2019-07-20,null
+186,Omar Dubois,omar.dubois186@example.com,United Kingdom,12-29-2020,53
+187,Wei Chen,wei.chen187@example.com,Germany,2019-11-12,42
+188,Kenji Patel,kenji.patel188@example.com,United Kingdom,2019-06-28,29
+189,NOAH IVANOVA,noah.ivanova189@example.com,USA,2020-08-20,44
+190,carlos muller,carlos.muller190@example.com,Germany,2020-07-03,49
+191,Grace Okafor,  grace.okafor191@example.com ,india ,2019-08-08,26
+192,Carlos Rossi,carlos.rossi192@example.com,germany,2022-05-20,78
+193,  Sofia Khan ,sofia.khan193@example.com,IN,28/07/2020,70
+194,OMAR OKAFOR,omar.okafor194@example.com,Bharat,2023-06-22,36
+195,Carlos Tanaka,carlos.tanaka195@example.com,Bharat,2019-06-01,46
+196,Wei Patel,WEI.PATEL196@EXAMPLE.COM,england,20220908,60
+197,Priya Smith,priya.smith197@example.com,us,2020-06-13,32
+198,Carlos Brown,CARLOS.BROWN198@EXAMPLE.COM,USA,2021-09-15,24
+199,Grace Brown,GRACE.BROWN199@EXAMPLE.COM,India,2019-07-19,46
+200,Fatima Silva,fatima.silva200@example.com,CA,24/12/2019,53
+201,  Arjun Smith ,arjun.smith201@example.com,canada,2020/02/09,46
+202,Fatima Brown,fatima.brown202@example.com,germany,2020-02-08,47
+203,Olivia Brown,olivia.brown203@example.com,India,18/06/2022,29
+204,Priya Nguyen,PRIYA.NGUYEN204@EXAMPLE.COM,DE,2022-11-21,27
+205,Fatima Nguyen,fatima.nguyen205@example.com,India,2020-08-14,26
+206,Grace Tanaka,N/A,india ,2021-05-01,63
+207,omar dubois,omar.dubois207@example.com,canada,2021/11/12,25
+208,liam tanaka,null,U.S.,2023/02/16,71
+209,  Priya Silva ,priya.silva209@example.com,UK,19/07/2023,65
+210,  Mary Brown ,mary.brown210@example.com,CA,20200729,56
+211,PRIYA KIM,priya.kim211@example.com,india ,2019/05/02,35
+212,  Grace Kim ,GRACE.KIM212@EXAMPLE.COM,Canada,2022-07-19,35
+213,Olivia Lopez,olivia.lopez213@example.com,india ,2020/11/01,-1
+214,  Elena Okafor ,elena.okafor214@example.com,Bharat,07-03-2020,38
+215,mary patel,mary.patel215@example.com,Bharat,2019-02-03,25
+216,AMARA NGUYEN,amara.nguyen216@example.com,Germany,2019-07-11,59
+217,SOFIA TANAKA,sofia.tanaka217@example.com,us,2022-12-12,999
+218,Elena Kim,ELENA.KIM218@EXAMPLE.COM,india ,2019-05-26,32
+219,Carlos Kim,carlos.kim219@example.com,USA,Dec 22 2021,0
+220,Liam Chen,  liam.chen220@example.com ,USA,2019-10-14,66
+221,amara smith,  amara.smith221@example.com ,DE,2020-02-25,51
+222,Wei Smith,wei.smith222@example.com,DE,10-10-2020,26
+223,JAMES CHEN,james.chen223@example.com,United States of America,06-20-2020,31
+224,carlos muller,carlos.muller224@example.com,us,2020-09-26,23
+225,WEI ROSSI,WEI.ROSSI225@EXAMPLE.COM,Bharat,03/02/2023,79
+226,fatima patel,fatima.patel226@example.com,U.S.,2022-12-20,26
+227,Kenji Patel,kenji.patel227@example.com,United States,2020-11-17,69
+228,Fatima Brown,fatima.brown228@example.com,Great Britain,2020-06-06,
+229,Grace Brown,grace.brown229@example.com,Bharat,2019-11-04,29
+230,Noah Muller,NOAH.MULLER230@EXAMPLE.COM,United States of America,20220316,41
+231,OMAR ROSSI,omar.rossi231@example.com,germany,11-01-2020,23
+232,GRACE OKAFOR,grace.okafor232@example.com,CA,07/04/2023,null
+233,james ivanova,james.ivanova233@example.com,DE,08-01-2019,31
+234,Elena Brown,elena.brown234@example.com,India,2023-03-12,23
+235,  Kenji Khan ,kenji.khan235@example.com,IN,2022-12-06,71
+236,Priya Nguyen,priya.nguyen236@example.com,india ,2021-08-12,38
+237,AMARA GARCIA,amara.garcia237@example.com,Great Britain,2023-09-08,72
+238,Fatima Smith,FATIMA.SMITH238@EXAMPLE.COM,IN,2023-10-17,46
+239,Sofia Kim,sofia.kim239@example.com,U.K.,Aug 14 2023,43
+240,Liam Lopez,LIAM.LOPEZ240@EXAMPLE.COM,United Kingdom,2019-07-08,75
+241,  Arjun Dubois ,arjun.dubois241@example.com,us,Feb 22 2021,61
+242,SOFIA ROSSI,sofia.rossi242@example.com,IN,23/04/2021,74
+243,  James Ivanova ,james.ivanova243@example.com,germany,2021-09-09,52
+244,Kenji Garcia,kenji.garcia244@example.com,IN,2021-12-20,40
+245,  Mary Silva ,mary.silva245@example.com,Canada,2023-09-30,80
+246,Olivia Smith,olivia.smith246@example.com,Deutschland,2022-03-08,
+247,Sofia Silva,  sofia.silva247@example.com ,U.S.,2021-12-14,0
+248,  Carlos Patel ,carlos.patel248@example.com,Canada,2023-10-29,41
+249,Elena Dubois,elena.dubois249@example.com,DE,23/12/2019,63
+250,Amara Kim,  amara.kim250@example.com ,Great Britain,2023-02-01,18
+251,sofia patel,sofia.patel251@example.com,India,2019/10/16,39
+252,NOAH LOPEZ,noah.lopez252@example.com,United States,2020-06-27,31
+253,FATIMA TANAKA,fatima.tanaka253@example.com,IN,2021-02-14,40
+254,  Amara Smith ,amara.smith254@example.com,Germany,2020-06-18,78
+255,Grace Smith,GRACE.SMITH255@EXAMPLE.COM,IN,2022-08-31,28
+256,Kenji Rossi,kenji.rossi256@example.com,germany,2020-05-01,24
+257,grace okafor,GRACE.OKAFOR257@EXAMPLE.COM,U.S.,02-22-2019,31
+258,  Kenji Chen ,kenji.chen258@example.com,CA,2021-03-04,29
+259,Mary Kim,mary.kim259@example.com,United States of America,2019-06-25,60
+260,Grace Silva,GRACE.SILVA260@EXAMPLE.COM,IN,2020-09-04,23
+261,Fatima Okafor,fatima.okafor261@example.com,UK,2019/09/16,20
+262,Wei Chen,wei.chen262@example.com,India,02-13-2022,43
+263,Elena Patel,elena.patel263@example.com,India,2019-11-03,27
+264,Olivia Tanaka,OLIVIA.TANAKA264@EXAMPLE.COM,DE,23/02/2021,59
+265,arjun khan,  arjun.khan265@example.com ,U.K.,2019-04-11,65
+266,Priya Silva,  priya.silva266@example.com ,Great Britain,07/09/2020,80
+267,Elena Dubois,elena.dubois267@example.com,canada,2023-11-12,41
+268,JAMES NGUYEN,JAMES.NGUYEN268@EXAMPLE.COM,U.K.,11-28-2023,71
+269,Arjun Patel,arjun.patel269@example.com,United States of America,2020-05-10,41
+270,Wei Rossi,wei.rossi270@example.com,USA,02/03/2021,21
+271,James Smith,james.smith271@example.com,india ,09-28-2019,59
+272,Arjun Brown,arjun.brown272@example.com,India,2020-05-31,31
+273,  Olivia Rossi ,olivia.rossi273@example.com,germany,2022-11-02,24
+274,AMARA OKAFOR,amara.okafor274@example.com,england,25/11/2021,66
+275,GRACE ROSSI,grace.rossi275@example.com,DE,2021-05-07,43
+276,Grace Brown,grace.brown276@example.com,CA,2020-09-06,72
+277,Fatima Khan,fatima.khan277@example.com,U.S.,2020-03-31,40
+278,Grace Garcia,grace.garcia278@example.com,canada,2022-04-03,78
+279,Carlos Kim,carlos.kim279@example.com,UK,12-02-2020,44
+280,Fatima Khan,fatima.khan280@example.com,us,01-10-2019,46
+281,ELENA TANAKA,elena.tanaka281@example.com,India,May 28 2021,79
+282,  James Smith ,JAMES.SMITH282@EXAMPLE.COM,U.K.,2020-04-08,62
+283,Amara Lopez,amara.lopez283@example.com,CA,2022-05-06,51
+284,arjun smith,ARJUN.SMITH284@EXAMPLE.COM,United Kingdom,2020-04-04,none
+285,Kenji Garcia,KENJI.GARCIA285@EXAMPLE.COM,CA,2019-04-09,60
+286,Carlos Okafor,carlos.okafor286@example.com,USA,2020-09-08,44
+287,Priya Rossi,priya.rossi287@example.com,USA,2023-05-27,24
+288,Grace Okafor,grace.okafor288@example.com,IN,Nov 08 2020,-1
+289,Priya Muller,PRIYA.MULLER289@EXAMPLE.COM,United Kingdom,2021/07/24,80
+290,ELENA PATEL,ELENA.PATEL290@EXAMPLE.COM,U.S.,2023-10-10,66
+291,Wei Brown,wei.brown291@example.com,Deutschland,01-10-2020,25
+292,Priya Kim,priya.kim292@example.com,us,2023-09-26,28
+293,James Kim,JAMES.KIM293@EXAMPLE.COM,India,09-26-2021,25
+294,SOFIA KHAN,sofia.khan294@example.com,CA,07/12/2021,62
+295,Mary Smith,mary.smith295@example.com,U.K.,2021-11-01,72
+296,Sofia Ivanova,sofia.ivanova296@example.com,Bharat,2023-08-01,33
+297,JAMES PATEL,JAMES.PATEL297@EXAMPLE.COM,india ,Apr 24 2021,20
+298,Omar Khan,  omar.khan298@example.com ,Deutschland,08-18-2023,21
+299,Priya Silva,priya.silva299@example.com,United States,2020-11-30,40
+300,Elena Patel,  elena.patel300@example.com ,DE,06-05-2022,30
+301,PRIYA LOPEZ,priya.lopez301@example.com,India,2022-09-10,55
+302,Fatima Nguyen,  fatima.nguyen302@example.com ,england,20190801,42
+303,KENJI IVANOVA,kenji.ivanova303@example.com,germany,2020/08/25,46
+304,  Liam Okafor ,liam.okafor304@example.com,UK,2022-07-02,63
+305,Priya Brown,priya.brown305@example.com,canada,2021-09-10,55
+306,priya smith,priya.smith306@example.com,india ,25/10/2019,21
+307,AMARA OKAFOR,amara.okafor307@example.com,Canada,03-08-2019,40
+308,Amara Garcia,  amara.garcia308@example.com ,India,03-04-2021,44
+309,Omar Silva,omar.silva309@example.com,germany,2023-03-27,55
+310,fatima patel,fatima.patel310@example.com,India,2019-03-25,45
+311,Carlos Khan,carlos.khan311@example.com,canada,2019-04-15,67
+312,Sofia Nguyen,sofia.nguyen312@example.com,Canada,May 20 2019,68
+313,Amara Okafor,none,CA,2021-12-22,48
+314,SOFIA GARCIA,sofia.garcia314@example.com,Germany,Feb 20 2021,76
+315,  Omar Dubois ,OMAR.DUBOIS315@EXAMPLE.COM,United States of America,2020-08-30,75
+316,Liam Tanaka,liam.tanaka316@example.com,United States,02-26-2020,52
+317,noah garcia,NOAH.GARCIA317@EXAMPLE.COM,U.S.,2019-05-31,21
+318,Noah Smith,noah.smith318@example.com,India,10-10-2022,25
+319,Priya Rossi,  priya.rossi319@example.com ,Germany,2022-05-27,23
+320,Arjun Rossi,arjun.rossi320@example.com,United Kingdom,2020-09-02,61
+321,james ivanova,james.ivanova321@example.com,Canada,2022-01-26,78
+322,FATIMA NGUYEN,fatima.nguyen322@example.com,United Kingdom,2022/06/17,71
+323,omar chen,omar.chen323@example.com,germany,2022-10-07,22
+324,Wei Okafor,wei.okafor324@example.com,germany,2021/09/22,46
+325,noah silva,  noah.silva325@example.com ,U.K.,2022/12/29,65
+326,AMARA DUBOIS,amara.dubois326@example.com,canada,2019-08-11,29
+327,Wei Smith,wei.smith327@example.com,Canada,2022-07-17,19
+328,Grace Kim,grace.kim328@example.com,Germany,2021-03-14,32
+329,Fatima Kim,fatima.kim329@example.com,Bharat,Nov 23 2019,29
+330,sofia chen,sofia.chen330@example.com,Deutschland,Jan 26 2021,none
+331,Noah Patel,noah.patel331@example.com,CA,21/07/2022,71
+332,Wei Muller,  wei.muller332@example.com ,India,2020-04-01,51
+333,Wei Muller,wei.muller333@example.com,england,2019/11/04,29
+334,Grace Dubois,grace.dubois334@example.com,Great Britain,2022-04-24,NaN
+335,Carlos Garcia,carlos.garcia335@example.com,United Kingdom,2020/06/12,77
+336,wei okafor,wei.okafor336@example.com,IN,27/05/2022,48
+337,  Noah Lopez ,NOAH.LOPEZ337@EXAMPLE.COM,canada,24/04/2022,22
+338,Fatima Dubois,fatima.dubois338@example.com,canada,2022-05-13,20
+339,Elena Tanaka,elena.tanaka339@example.com,Deutschland,2023-11-27,20
+340,Priya Tanaka,PRIYA.TANAKA340@EXAMPLE.COM,Great Britain,2020-06-05,48
+341,James Patel,  james.patel341@example.com ,Canada,2019-01-15,42
+342,elena brown,elena.brown342@example.com,Canada,2020-07-18,61
+343,Amara Brown,amara.brown343@example.com,IN,2023-02-15,26
+344,Mary Nguyen,mary.nguyen344@example.com,India,2022-07-26,18
+345,Mary Ivanova,mary.ivanova345@example.com,IN,11/06/2022,59
+346,Amara Okafor,amara.okafor346@example.com,U.S.,N/A,56
+347,kenji ivanova,KENJI.IVANOVA347@EXAMPLE.COM,Germany,2022-10-03,43
+348,Olivia Brown,N/A,Deutschland,2020-04-08,56
+349,Noah Patel,noah.patel349@example.com,CA,2020-06-11,74
+350,omar lopez,  omar.lopez350@example.com ,Canada,01/11/2023,19
+351,Olivia Smith,olivia.smith351@example.com,DE,2020-05-23,36
+352,Kenji Nguyen,kenji.nguyen352@example.com,UK,2021/10/18,65
+353,Priya Patel,priya.patel353@example.com,United States,2022/10/16,79
+354,  Kenji Dubois ,kenji.dubois354@example.com,Great Britain,04-15-2023,76
+355,Olivia Ivanova,none,UK,2021-07-25,80
+356,Kenji Nguyen,  kenji.nguyen356@example.com ,CA,2020-06-22,33
+357,Arjun Muller,arjun.muller357@example.com,india ,2020/01/04,54
+358,Liam Kim,liam.kim358@example.com,Great Britain,2021-08-26,999
+359,kenji garcia,kenji.garcia359@example.com,India,2019-07-22,62
+360,Kenji Brown,kenji.brown360@example.com,United States of America,2021-04-23,25
+361,Grace Lopez,GRACE.LOPEZ361@EXAMPLE.COM,U.S.,2021-02-19,57
+362,Wei Chen,wei.chen362@example.com,england,2020-12-04,32
+363,OLIVIA LOPEZ,olivia.lopez363@example.com,India,2019-12-09,29
+364,Grace Garcia,GRACE.GARCIA364@EXAMPLE.COM,United States,28/04/2023,43
+365,Sofia Rossi,SOFIA.ROSSI365@EXAMPLE.COM,india ,2022/07/07,26
+366,Kenji Lopez,kenji.lopez366@example.com,Great Britain,2022-11-29,52
+367,  Olivia Dubois ,olivia.dubois367@example.com,Canada,2020-04-10,69
+368,Olivia Rossi,olivia.rossi368@example.com,Bharat,12-31-2021,18
+369,olivia okafor,olivia.okafor369@example.com,Bharat,2022-02-22,45
+370,Kenji Rossi,kenji.rossi370@example.com,canada,2023-07-15,35
+371,Grace Okafor,grace.okafor371@example.com,germany,2019-02-09,
+372,Carlos Smith,carlos.smith372@example.com,India,2020-03-20,39
+373,mary muller,mary.muller373@example.com,India,2019-05-27,52
+374,OMAR SILVA,omar.silva374@example.com,us,12/02/2020,47
+375,  Mary Patel ,MARY.PATEL375@EXAMPLE.COM,Germany,2021-09-12,null
+376,Priya Ivanova,priya.ivanova376@example.com,U.K.,01-19-2019,80
+377,Noah Garcia,NOAH.GARCIA377@EXAMPLE.COM,U.S.,20201229,59
+378,OMAR OKAFOR,omar.okafor378@example.com,us,2022-11-12,42
+379,Fatima Brown,fatima.brown379@example.com,Germany,2023-02-08,47
+380,Olivia Lopez,olivia.lopez380@example.com,U.S.,05-09-2023,58
+381,arjun okafor,arjun.okafor381@example.com,CA,2022-10-31,49
+382,CARLOS NGUYEN,carlos.nguyen382@example.com,us,2020-02-18,24
+383,Olivia Silva,olivia.silva383@example.com,CA,2023/01/10,0
+384,ELENA BROWN,ELENA.BROWN384@EXAMPLE.COM,USA,20230814,57
+385,Arjun Okafor,arjun.okafor385@example.com,england,12-13-2021,60
+386,Omar Tanaka,  omar.tanaka386@example.com ,United States of America,2019-12-08,68
+387,Noah Brown,noah.brown387@example.com,IN,2023-04-15,58
+388,Olivia Lopez,olivia.lopez388@example.com,india ,2021-03-24,18
+389,Noah Smith,null,DE,2022-02-07,50
+390,Sofia Muller,sofia.muller390@example.com,Deutschland,2019-07-08,54
+391,PRIYA ROSSI,PRIYA.ROSSI391@EXAMPLE.COM,U.S.,2023/02/05,69
+392,  Priya Silva ,  priya.silva392@example.com ,canada,2019-01-24,58
+393,Carlos Garcia,carlos.garcia393@example.com,Bharat,2021-07-01,66
+394,Mary Ivanova,MARY.IVANOVA394@EXAMPLE.COM,DE,2019-06-24,43
+395,Sofia Silva,sofia.silva395@example.com,us,2020-06-29,67
+396,James Rossi,james.rossi396@example.com,UK,2020-12-17,57
+397,WEI PATEL,wei.patel397@example.com,U.S.,12/05/2020,78
+398,James Khan,james.khan398@example.com,Great Britain,02-24-2023,52
+399,james ivanova,james.ivanova399@example.com,canada,2022-09-20,51
+400,  Wei Ivanova ,WEI.IVANOVA400@EXAMPLE.COM,Deutschland,2022-09-19,72
+401,priya khan,priya.khan401@example.com,India,2023-11-11,56
+402,  Grace Ivanova ,  grace.ivanova402@example.com ,Great Britain,2019-02-07,40
+403,Arjun Smith,arjun.smith403@example.com,CA,2020-07-27,32
+404,  Sofia Tanaka ,sofia.tanaka404@example.com,UK,2022-03-19,27
+405,Liam Kim,liam.kim405@example.com,DE,11/11/2022,63
+406,Wei Patel,wei.patel406@example.com,england,20201012,71
+407,Kenji Kim,kenji.kim407@example.com,Great Britain,07/08/2019,26
+408,James Brown,james.brown408@example.com,U.S.,2022-11-10,67
+409,FATIMA OKAFOR,fatima.okafor409@example.com,UK,03-08-2019,44
+410,Omar Dubois,omar.dubois410@example.com,Deutschland,11-11-2023,47
+411,Mary Patel,mary.patel411@example.com,India,2021-07-24,70
+412,Mary Okafor,mary.okafor412@example.com,germany,19/06/2021,43
+413,carlos lopez,carlos.lopez413@example.com,IN,2019-07-05,-
+414,Liam Lopez,liam.lopez414@example.com,United States,2020-05-27,38
+415,Wei Ivanova,WEI.IVANOVA415@EXAMPLE.COM,CA,2022-06-07,78
+416,Carlos Nguyen,carlos.nguyen416@example.com,United States,May 09 2021,null
+417,JAMES LOPEZ,james.lopez417@example.com,Bharat,2023-10-18,49
+418,James Silva,james.silva418@example.com,Canada,23/07/2020,57
+419,amara khan,amara.khan419@example.com,United States of America,2019-04-11,24
+420,Olivia Garcia,olivia.garcia420@example.com,United States of America,2023-04-23,37
+421,kenji khan,KENJI.KHAN421@EXAMPLE.COM,canada,2021-04-27,51
+422,Amara Tanaka,amara.tanaka422@example.com,canada,2023-10-03,38
+423,grace nguyen,GRACE.NGUYEN423@EXAMPLE.COM,Canada,04-21-2020,63
+424,Elena Tanaka,ELENA.TANAKA424@EXAMPLE.COM,U.S.,2020-11-14,40
+425,Noah Smith,N/A,USA,2022-11-05,39
+426,Grace Garcia,grace.garcia426@example.com,england,Sep 13 2021,27
+427,Noah Smith,noah.smith427@example.com,UK,2022-03-28,61
+428,Fatima Ivanova,fatima.ivanova428@example.com,United Kingdom,2022-05-03,25
+429,OLIVIA LOPEZ,olivia.lopez429@example.com,Germany,-,51
+430,  Carlos Okafor ,  carlos.okafor430@example.com ,Germany,2021/09/17,64
+431,Carlos Okafor,CARLOS.OKAFOR431@EXAMPLE.COM,United States of America,2021/07/29,42
+432,Priya Rossi,  priya.rossi432@example.com ,U.S.,2022-03-28,66
+433,kenji kim,  kenji.kim433@example.com ,UK,Jul 14 2020,-1
+434,Fatima Chen,FATIMA.CHEN434@EXAMPLE.COM,Germany,2022-06-09,75
+435,fatima lopez,fatima.lopez435@example.com,Canada,20201229,37
+436,Carlos Chen,carlos.chen436@example.com,IN,2019-07-19,47
+437,Olivia Ivanova,olivia.ivanova437@example.com,United Kingdom,2022-12-03,76
+438,FATIMA ROSSI,fatima.rossi438@example.com,germany,2022-05-22,54
+439,Omar Ivanova,omar.ivanova439@example.com,CA,2021-04-26,33
+440,Elena Khan,elena.khan440@example.com,CA,2022-11-22,33
+441,Priya Lopez,priya.lopez441@example.com,england,2020-09-22,79
+442,Liam Kim,liam.kim442@example.com,CA,2023-03-27,58
+443,Noah Rossi,noah.rossi443@example.com,CA,20230615,76
+444,Arjun Kim,ARJUN.KIM444@EXAMPLE.COM,germany,2019-05-08,-
+445,arjun khan,arjun.khan445@example.com,Bharat,2021/04/11,42
+446,AMARA KIM,amara.kim446@example.com,UK,2019-01-24,22
+447,Omar Tanaka,omar.tanaka447@example.com,Canada,-,47
+448,Sofia Muller,sofia.muller448@example.com,India,2022-01-23,54
+449,KENJI LOPEZ,kenji.lopez449@example.com,canada,2019-06-10,51
+450,Amara Garcia,amara.garcia450@example.com,Deutschland,2021-12-31,999
+451,Fatima Garcia,FATIMA.GARCIA451@EXAMPLE.COM,Canada,2023-03-15,37
+452,James Rossi,james.rossi452@example.com,india ,2019-06-18,26
+453,Fatima Kim,fatima.kim453@example.com,India,2021-01-27,69
+454,Carlos Dubois,carlos.dubois454@example.com,india ,2023-04-27,42
+455,Mary Nguyen,mary.nguyen455@example.com,Bharat,27/03/2021,48
+456,  Elena Smith ,elena.smith456@example.com,Germany,Jun 21 2023,46
+457,elena muller,elena.muller457@example.com,DE,07-07-2020,35
+458,Noah Nguyen,NOAH.NGUYEN458@EXAMPLE.COM,Germany,26/01/2022,18
+459,Kenji Okafor,kenji.okafor459@example.com,United States of America,18/02/2019,57
+460,CARLOS IVANOVA,carlos.ivanova460@example.com,canada,Jul 03 2023,79
+461,kenji tanaka,KENJI.TANAKA461@EXAMPLE.COM,Germany,2020-06-11,28
+462,Wei Dubois,WEI.DUBOIS462@EXAMPLE.COM,UK,03/06/2022,43
+463,kenji patel,kenji.patel463@example.com,USA,,22
+464,Kenji Kim,kenji.kim464@example.com,Germany,none,999
+465,  Grace Patel ,  grace.patel465@example.com ,canada,2022-01-01,77
+466,WEI LOPEZ,  wei.lopez466@example.com ,Deutschland,Aug 19 2022,30
+467,Wei Lopez,wei.lopez467@example.com,United Kingdom,10-14-2019,20
+468,Omar Smith,omar.smith468@example.com,United States of America,2020-11-25,21
+469,Carlos Silva,carlos.silva469@example.com,United States,2019-03-17,none
+470,Mary Rossi,mary.rossi470@example.com,us,2021-07-23,57
+471,Liam Tanaka,  liam.tanaka471@example.com ,DE,2023-07-20,71
+472,Mary Nguyen,mary.nguyen472@example.com,DE,2019-05-10,
+473,Arjun Nguyen,arjun.nguyen473@example.com,U.S.,2021-09-24,0
+474,Carlos Okafor,carlos.okafor474@example.com,United Kingdom,2022-08-03,35
+475,wei rossi,wei.rossi475@example.com,germany,2021/05/07,18
+476,OMAR OKAFOR,omar.okafor476@example.com,Deutschland,2019-04-19,none
+477,Olivia Rossi,olivia.rossi477@example.com,United Kingdom,Jun 09 2021,34
+478,Grace Patel,grace.patel478@example.com,U.S.,2020-04-26,64
+479,Sofia Tanaka,sofia.tanaka479@example.com,UK,2021-02-08,75
+480,Olivia Kim,olivia.kim480@example.com,India,2023-01-14,30
+481,elena nguyen,elena.nguyen481@example.com,DE,2020-03-26,74
+482,elena dubois,elena.dubois482@example.com,UK,2022-04-26,48
+483,Carlos Smith,carlos.smith483@example.com,Bharat,2019-04-01,20
+484,Omar Dubois,omar.dubois484@example.com,U.K.,2019-06-20,53
+485,Grace Rossi,GRACE.ROSSI485@EXAMPLE.COM,UK,2022/12/11,47
+486,Olivia Lopez,-,U.S.,29/10/2023,58
+487,Liam Chen,liam.chen487@example.com,Canada,2020-11-18,65
+488,Olivia Brown,olivia.brown488@example.com,U.K.,2022-08-20,53
+489,Liam Silva,liam.silva489@example.com,germany,2020-12-23,75
+490,Grace Rossi,grace.rossi490@example.com,India,2022-06-25,41
+491,ARJUN NGUYEN,ARJUN.NGUYEN491@EXAMPLE.COM,DE,2019-06-07,24
+492,CARLOS DUBOIS,N/A,germany,2021-05-10,46
+493,Noah Dubois,noah.dubois493@example.com,CA,2022-09-25,62
+494,amara garcia,amara.garcia494@example.com,U.K.,2020-12-24,36
+495,Carlos Nguyen,carlos.nguyen495@example.com,UK,2019-08-28,20
+496,Olivia Kim,-,DE,Jul 07 2021,52
+497,Noah Rossi,noah.rossi497@example.com,Bharat,2020-08-16,80
+498,Mary Kim,mary.kim498@example.com,CA,2019-08-28,37
+499,Sofia Muller,sofia.muller499@example.com,Great Britain,2019-02-16,23
+500,  Mary Brown ,  mary.brown500@example.com ,india ,2019-10-30,63
+501,Liam Lopez,liam.lopez501@example.com,Bharat,2023-07-04,46
+502,LIAM ROSSI,liam.rossi502@example.com,India,2023-11-12,51
+503,fatima lopez,  fatima.lopez503@example.com ,Canada,2023/03/27,76
+504,  Grace Lopez ,grace.lopez504@example.com,United Kingdom,24/02/2019,150
+505,Grace Silva,GRACE.SILVA505@EXAMPLE.COM,United States of America,2019-09-02,66
+506,Grace Patel,grace.patel506@example.com,germany,2021-11-15,64
+507,  Mary Muller ,mary.muller507@example.com,Germany,2021-05-09,58
+508,Priya Nguyen,priya.nguyen508@example.com,canada,22/10/2020,73
+509,Carlos Smith,  carlos.smith509@example.com ,United Kingdom,2021-11-27,36
+510,Priya Tanaka,priya.tanaka510@example.com,india ,2019-06-06,25
+511,noah nguyen,noah.nguyen511@example.com,DE,2019-02-28,65
+512,Elena Patel,none,United States of America,2019-02-08,67
+513,Mary Chen,mary.chen513@example.com,DE,2022-09-29,18
+514,Kenji Brown,kenji.brown514@example.com,Germany,2019/11/25,72
+515,Liam Rossi,liam.rossi515@example.com,england,2023-03-25,-1
+516,priya nguyen,PRIYA.NGUYEN516@EXAMPLE.COM,Germany,2021-02-16,45
+517,Olivia Rossi,  olivia.rossi517@example.com ,canada,2023-01-18,20
+518,Elena Rossi,elena.rossi518@example.com,IN,2020-01-22,72
+519,ARJUN LOPEZ,arjun.lopez519@example.com,Canada,09-10-2022,61
+520,Olivia Okafor,olivia.okafor520@example.com,Deutschland,2020-02-15,56
+521,Kenji Ivanova,kenji.ivanova521@example.com,Deutschland,2021-09-01,60
+522,Carlos Smith,CARLOS.SMITH522@EXAMPLE.COM,United States of America,20/02/2023,21
+523,priya chen,priya.chen523@example.com,CA,2023-04-21,49
+524,James Garcia,N/A,india ,Sep 01 2019,42
+525,Amara Ivanova,amara.ivanova525@example.com,Bharat,2023-04-14,25
+526,Arjun Muller,arjun.muller526@example.com,India,2022-04-25,80
+527,Olivia Smith,olivia.smith527@example.com,DE,2021-02-18,24
+528,WEI ROSSI,wei.rossi528@example.com,United States of America,Nov 22 2020,150
+529,JAMES KHAN,james.khan529@example.com,IN,2022-03-14,42
+530,noah nguyen,noah.nguyen530@example.com,Canada,2020/09/05,41
+531,Mary Rossi,MARY.ROSSI531@EXAMPLE.COM,Canada,2021-04-03,69
+532,Grace Tanaka,grace.tanaka532@example.com,Great Britain,2020-12-12,68
+533,omar nguyen,omar.nguyen533@example.com,us,2022-07-09,63
+534,elena garcia,elena.garcia534@example.com,CA,2020-02-15,41
+535,liam tanaka,liam.tanaka535@example.com,Germany,null,36
+536,ELENA TANAKA,elena.tanaka536@example.com,United States of America,2020-02-18,28
+537,Grace Smith,grace.smith537@example.com,us,Oct 27 2023,75
+538,Arjun Kim,arjun.kim538@example.com,Great Britain,2019-08-18,54
+539,Priya Khan,priya.khan539@example.com,DE,2023-09-01,55
+540,Omar Tanaka,omar.tanaka540@example.com,Deutschland,2023-11-03,55
+541,CARLOS BROWN,carlos.brown541@example.com,India,05/01/2023,41
+542,Arjun Rossi,arjun.rossi542@example.com,Deutschland,Jul 22 2023,61
+543,Sofia Rossi,  sofia.rossi543@example.com ,england,10-27-2023,74
+544,Grace Dubois,grace.dubois544@example.com,india ,2023-09-19,39
+545,noah lopez,noah.lopez545@example.com,United States,2023-04-10,21
+546,Wei Patel,wei.patel546@example.com,Great Britain,26/05/2020,51
+547,  Grace Kim ,grace.kim547@example.com,germany,2019-12-22,61
+548,sofia smith,SOFIA.SMITH548@EXAMPLE.COM,U.S.,02-17-2022,59
+549,Elena Muller,ELENA.MULLER549@EXAMPLE.COM,england,07-02-2019,79
+550,Grace Patel,grace.patel550@example.com,england,2023-01-01,31
+551,LIAM ROSSI,liam.rossi551@example.com,Great Britain,2021-05-06,29
+552,Omar Chen,  omar.chen552@example.com ,us,08-18-2021,26
+553,Priya Garcia,priya.garcia553@example.com,United States of America,11-12-2020,NaN
+554,Arjun Rossi,ARJUN.ROSSI554@EXAMPLE.COM,IN,2022-10-06,41
+555,carlos chen,  carlos.chen555@example.com ,Deutschland,2022/12/25,51
+556,elena rossi,  elena.rossi556@example.com ,germany,06-09-2022,71
+557,OMAR GARCIA,omar.garcia557@example.com,england,2019-11-01,21
+558,Omar Brown,omar.brown558@example.com,Canada,2021-09-20,47
+559,kenji okafor,kenji.okafor559@example.com,CA,09/01/2019,none
+560,Priya Ivanova,priya.ivanova560@example.com,Deutschland,2022-04-24,77
+561,  James Khan ,james.khan561@example.com,United States of America,2022-09-05,57
+562,Amara Khan,AMARA.KHAN562@EXAMPLE.COM,USA,20230304,22
+563,Liam Nguyen,liam.nguyen563@example.com,Bharat,2023/05/16,43
+564,Carlos Brown,carlos.brown564@example.com,United States of America,01/09/2023,41
+565,Olivia Nguyen,olivia.nguyen565@example.com,IN,Jul 15 2022,45
+566,Wei Rossi,WEI.ROSSI566@EXAMPLE.COM,india ,2021/06/14,23
+567,Mary Chen,mary.chen567@example.com,U.S.,2021-11-17,24
+568,  James Patel ,JAMES.PATEL568@EXAMPLE.COM,india ,2020-01-03,68
+569,omar muller,omar.muller569@example.com,Germany,-,69
+570,Fatima Dubois,fatima.dubois570@example.com,india ,17/11/2022,43
+571,Amara Chen,amara.chen571@example.com,United Kingdom,2019-10-04,18
+572,Elena Okafor,ELENA.OKAFOR572@EXAMPLE.COM,USA,09-08-2020,67
+573,James Lopez,  james.lopez573@example.com ,Canada,11/05/2020,30
+574,Grace Rossi,grace.rossi574@example.com,us,2021-09-25,NaN
+575,NOAH CHEN,noah.chen575@example.com,Deutschland,null,44
+576,Grace Brown,  grace.brown576@example.com ,Bharat,2020-04-20,50
+577,Elena Brown,elena.brown577@example.com,Bharat,2023-06-26,80
+578,PRIYA TANAKA,PRIYA.TANAKA578@EXAMPLE.COM,india ,13/09/2020,33
+579,MARY CHEN,mary.chen579@example.com,germany,05-31-2021,25
+580,KENJI KIM,kenji.kim580@example.com,Canada,20220522,60
+581,Priya Garcia,priya.garcia581@example.com,CA,08-04-2019,28
+582,Priya Kim,priya.kim582@example.com,Germany,2020-11-16,70
+583,  Fatima Chen ,fatima.chen583@example.com,Deutschland,02-01-2021,63
+584,ELENA LOPEZ,NaN,Canada,2023-06-16,61
+585,Fatima Tanaka,fatima.tanaka585@example.com,United States of America,20210316,66
+586,Amara Khan,amara.khan586@example.com,Deutschland,17/01/2019,70
+587,OMAR BROWN,omar.brown587@example.com,IN,2023-05-08,30
+588,Amara Khan,amara.khan588@example.com,U.K.,02-17-2019,19
+589,MARY BROWN,mary.brown589@example.com,germany,null,50
+590,Sofia Brown,sofia.brown590@example.com,DE,2020-08-05,60
+591,Olivia Lopez,OLIVIA.LOPEZ591@EXAMPLE.COM,USA,2019-10-28,63
+592,Arjun Ivanova,arjun.ivanova592@example.com,Deutschland,2022/04/11,49
+593,omar kim,omar.kim593@example.com,canada,2023-11-03,51
+594,Elena Patel,ELENA.PATEL594@EXAMPLE.COM,U.S.,2021-01-26,54
+595,carlos tanaka,NaN,U.S.,2020-09-16,74
+596,Amara Lopez,amara.lopez596@example.com,Deutschland,05-20-2023,42
+597,noah chen,  noah.chen597@example.com ,canada,Sep 22 2022,57
+598,  Fatima Smith ,fatima.smith598@example.com,Canada,2022-07-14,68
+599,Mary Okafor,mary.okafor599@example.com,Bharat,2021-10-26,0
+600,MARY DUBOIS,mary.dubois600@example.com,United States,2020-11-27,45
+601,Carlos Nguyen,carlos.nguyen601@example.com,germany,2023-04-23,23
+602,  Priya Khan ,priya.khan602@example.com,UK,2021-04-25,75
+603,Arjun Patel,arjun.patel603@example.com,DE,NaN,38
+604,Priya Silva,priya.silva604@example.com,canada,2022-08-27,68
+605,Fatima Silva,FATIMA.SILVA605@EXAMPLE.COM,canada,2021-05-17,-
+606,Kenji Muller,kenji.muller606@example.com,India,2020-12-20,71
+607,Carlos Muller,carlos.muller607@example.com,india ,20200307,57
+608,NOAH KHAN,noah.khan608@example.com,United Kingdom,,79
+609,Elena Dubois,none,Bharat,07/01/2022,23
+610,Olivia Ivanova,OLIVIA.IVANOVA610@EXAMPLE.COM,UK,2023-09-15,null
+611,Olivia Okafor,olivia.okafor611@example.com,U.S.,2023-07-30,57
+612,Liam Smith,liam.smith612@example.com,Great Britain,2023-08-09,58
+613,fatima chen,fatima.chen613@example.com,canada,09-20-2019,65
+614,James Muller,james.muller614@example.com,CA,2021-07-18,18
+615,Omar Dubois,OMAR.DUBOIS615@EXAMPLE.COM,Deutschland,2021-11-25,66
+616,james silva,  james.silva616@example.com ,India,2019-06-02,none
+617,  Noah Muller ,NOAH.MULLER617@EXAMPLE.COM,UK,Aug 09 2019,48
+618,Priya Lopez,  priya.lopez618@example.com ,canada,2019-09-13,23
+619,OMAR GARCIA,OMAR.GARCIA619@EXAMPLE.COM,Deutschland,2022-06-04,58
+620,James Lopez,JAMES.LOPEZ620@EXAMPLE.COM,India,2021-08-08,68
+621,Priya Smith,priya.smith621@example.com,canada,2022-12-31,22
+622,OMAR NGUYEN,omar.nguyen622@example.com,U.K.,2019-10-09,69
+623,Carlos Dubois,carlos.dubois623@example.com,DE,2022-05-20,39
+624,Mary Tanaka,mary.tanaka624@example.com,Deutschland,05/02/2020,80
+625,NOAH KHAN,noah.khan625@example.com,CA,N/A,44
+626,Omar Okafor,omar.okafor626@example.com,england,2021-09-11,65
+627,Wei Brown,wei.brown627@example.com,U.S.,N/A,25
+628,sofia muller,SOFIA.MULLER628@EXAMPLE.COM,United Kingdom,2020-11-26,72
+629,Priya Khan,priya.khan629@example.com,Great Britain,Sep 16 2020,47
+630,  Carlos Kim ,carlos.kim630@example.com,UK,Jan 28 2020,52
+631,amara kim,AMARA.KIM631@EXAMPLE.COM,Deutschland,2020-05-21,21
+632,Wei Nguyen,  wei.nguyen632@example.com ,Canada,2021-03-05,66
+633,Grace Dubois,grace.dubois633@example.com,DE,2022-04-05,43
+634,elena ivanova,ELENA.IVANOVA634@EXAMPLE.COM,CA,2019-11-18,77
+635,  Omar Khan ,omar.khan635@example.com,India,2021-07-12,47
+636,Olivia Chen,olivia.chen636@example.com,Germany,2023-09-22,50
+637,Noah Okafor,noah.okafor637@example.com,DE,20200527,37
+638,Kenji Smith,kenji.smith638@example.com,Germany,2020-07-31,70
+639,Carlos Ivanova,carlos.ivanova639@example.com,england,04-09-2020,64
+640,noah okafor,noah.okafor640@example.com,india ,2023-04-27,78
+641,James Dubois,james.dubois641@example.com,germany,,32
+642,Carlos Khan,carlos.khan642@example.com,Canada,Jul 13 2022,69
+643,Grace Patel,GRACE.PATEL643@EXAMPLE.COM,DE,2022-03-12,79
+644,fatima okafor,fatima.okafor644@example.com,U.S.,2021-03-01,36
+645,Elena Ivanova,ELENA.IVANOVA645@EXAMPLE.COM,UK,2019-08-15,26
+646,grace nguyen,grace.nguyen646@example.com,Canada,2022-03-23,78
+647,Arjun Silva,,CA,04/11/2020,76
+648,Amara Ivanova,amara.ivanova648@example.com,CA,2023-08-14,69
+649,priya ivanova,priya.ivanova649@example.com,United States,05/05/2020,74
+650,GRACE TANAKA,grace.tanaka650@example.com,CA,2019-09-06,
+651,wei lopez,WEI.LOPEZ651@EXAMPLE.COM,IN,2020-12-04,65
+652,Wei Chen,wei.chen652@example.com,Canada,,33
+653,Priya Ivanova,priya.ivanova653@example.com,UK,06-08-2019,60
+654,Omar Garcia,  omar.garcia654@example.com ,Canada,2022-08-05,60
+655,Liam Silva,liam.silva655@example.com,DE,03/05/2020,30
+656,Priya Nguyen,  priya.nguyen656@example.com ,Great Britain,2019-04-01,44
+657,PRIYA SILVA,N/A,england,2019-08-05,40
+658,Olivia Garcia,olivia.garcia658@example.com,United States of America,03-23-2020,44
+659,  Kenji Patel ,kenji.patel659@example.com,Canada,2020-10-26,80
+660,Noah Dubois,  noah.dubois660@example.com ,USA,2020-11-17,
+661,Priya Rossi,PRIYA.ROSSI661@EXAMPLE.COM,U.K.,2023-02-20,45
+662,Sofia Lopez,SOFIA.LOPEZ662@EXAMPLE.COM,Deutschland,02/10/2019,none
+663,Noah Khan,noah.khan663@example.com,UK,26/02/2020,52
+664,omar smith,omar.smith664@example.com,USA,2023-11-17,49
+665,  Liam Silva ,liam.silva665@example.com,Canada,10/06/2019,45
+666,  Liam Muller ,liam.muller666@example.com,Bharat,06-13-2019,78
+667,James Ivanova,james.ivanova667@example.com,IN,2023-10-16,23
+668,arjun dubois,NaN,U.S.,2020-11-13,26
+669,OLIVIA IVANOVA,olivia.ivanova669@example.com,India,2020-09-22,59
+670,Elena Muller,elena.muller670@example.com,Deutschland,11-09-2021,null
+671,JAMES KIM,james.kim671@example.com,DE,2022-05-24,47
+672,Arjun Ivanova,arjun.ivanova672@example.com,canada,2019-06-14,51
+673,Arjun Rossi,ARJUN.ROSSI673@EXAMPLE.COM,india ,2023/03/22,74
+674,ARJUN ROSSI,arjun.rossi674@example.com,us,11/12/2019,70
+675,Olivia Nguyen,olivia.nguyen675@example.com,UK,2020-02-10,49
+676,LIAM MULLER,liam.muller676@example.com,India,2021-06-21,58
+677,SOFIA DUBOIS,NaN,India,2022-10-09,NaN
+678,  Kenji Dubois ,kenji.dubois678@example.com,india ,2023/03/31,39
+679,ARJUN GARCIA,arjun.garcia679@example.com,DE,2023-11-24,39
+680,Sofia Brown,sofia.brown680@example.com,india ,2022-06-20,none
+681,Noah Lopez,NOAH.LOPEZ681@EXAMPLE.COM,england,20220527,49
+682,Arjun Rossi,arjun.rossi682@example.com,canada,2020-02-04,63
+683,omar nguyen,omar.nguyen683@example.com,India,2019-08-25,null
+684,Arjun Muller,arjun.muller684@example.com,Great Britain,12/01/2023,34
+685,Noah Silva,  noah.silva685@example.com ,canada,04-19-2023,77
+686,ELENA SILVA,  elena.silva686@example.com ,UK,06-14-2020,25
+687,Noah Ivanova,noah.ivanova687@example.com,CA,2023-02-18,18
+688,Carlos Silva,CARLOS.SILVA688@EXAMPLE.COM,USA,2021-03-20,18
+689,Carlos Garcia,carlos.garcia689@example.com,canada,2020-10-17,37
+690,Arjun Garcia,arjun.garcia690@example.com,Germany,Nov 09 2019,70
+691,Arjun Rossi,arjun.rossi691@example.com,england,2019-02-14,53
+692,Liam Ivanova,liam.ivanova692@example.com,U.S.,2019-09-26,38
+693,grace rossi,grace.rossi693@example.com,Great Britain,2020-03-05,31
+694,Arjun Tanaka,arjun.tanaka694@example.com,Great Britain,26/04/2019,24
+695,  Arjun Silva ,arjun.silva695@example.com,us,09-01-2019,33
+696,  Wei Lopez ,WEI.LOPEZ696@EXAMPLE.COM,Bharat,17/07/2020,58
+697,Grace Muller,grace.muller697@example.com,United States of America,2023-06-15,55
+698,Fatima Ivanova,fatima.ivanova698@example.com,United States of America,2021-03-17,53
+699,LIAM PATEL,liam.patel699@example.com,United Kingdom,2023-11-01,56
+700,Kenji Garcia,kenji.garcia700@example.com,United States,2019-09-13,50
+701,Amara Lopez,amara.lopez701@example.com,Great Britain,2022-03-27,49
+702,Mary Silva,mary.silva702@example.com,USA,2020-01-21,27
+703,Elena Chen,elena.chen703@example.com,CA,06/06/2020,34
+704,Liam Chen,liam.chen704@example.com,DE,2022-07-20,62
+705,ELENA IVANOVA,ELENA.IVANOVA705@EXAMPLE.COM,United States,2022-05-21,33
+706,Kenji Kim,kenji.kim706@example.com,United Kingdom,2020-07-14,18
+707,grace patel,grace.patel707@example.com,Canada,2020-12-15,62
+708,Olivia Ivanova,olivia.ivanova708@example.com,IN,2022-04-28,26
+709,Olivia Silva,  olivia.silva709@example.com ,CA,2021-05-06,63
+710,Sofia Rossi,sofia.rossi710@example.com,USA,Sep 17 2020,44
+711,Amara Dubois,amara.dubois711@example.com,United States of America,18/05/2021,61
+712,James Tanaka,james.tanaka712@example.com,canada,16/03/2023,40
+713,Fatima Silva,fatima.silva713@example.com,england,2019-06-03,41
+714,sofia patel,sofia.patel714@example.com,DE,Sep 04 2020,48
+715,MARY LOPEZ,mary.lopez715@example.com,Canada,2023-10-04,49
+716,Olivia Smith,olivia.smith716@example.com,us,2021-06-01,49
+717,grace ivanova,grace.ivanova717@example.com,Deutschland,04/09/2020,41
+718,elena smith,ELENA.SMITH718@EXAMPLE.COM,germany,Nov 18 2023,63
+719,Grace Muller,grace.muller719@example.com,us,2021-05-12,49
+720,arjun kim,arjun.kim720@example.com,USA,2019-08-09,68
+721,James Tanaka,james.tanaka721@example.com,IN,2020-08-15,36
+722,SOFIA TANAKA,sofia.tanaka722@example.com,UK,20210828,63
+723,sofia patel,N/A,United Kingdom,2021/04/01,20
+724,Sofia Silva,SOFIA.SILVA724@EXAMPLE.COM,germany,2021-05-22,48
+725,Noah Garcia,noah.garcia725@example.com,Great Britain,2019-03-25,18
+726,Olivia Khan,olivia.khan726@example.com,germany,08-17-2019,24
+727,Olivia Silva,OLIVIA.SILVA727@EXAMPLE.COM,Germany,2020-03-06,55
+728,Liam Okafor,  liam.okafor728@example.com ,IN,2019-07-22,22
+729,Elena Muller,ELENA.MULLER729@EXAMPLE.COM,CA,2020-12-12,75
+730,james nguyen,james.nguyen730@example.com,canada,2020-07-15,62
+731,Wei Nguyen,wei.nguyen731@example.com,IN,2023-03-18,50
+732,  James Lopez ,james.lopez732@example.com,canada,2022-12-20,64
+733,Amara Garcia,AMARA.GARCIA733@EXAMPLE.COM,UK,null,77
+734,Olivia Khan,olivia.khan734@example.com,U.S.,20221215,null
+735,Sofia Muller,sofia.muller735@example.com,U.K.,2020/06/08,-1
+736,Omar Silva,omar.silva736@example.com,DE,07-04-2020,31
+737,Grace Chen,grace.chen737@example.com,IN,N/A,47
+738,Arjun Okafor,arjun.okafor738@example.com,United States of America,2019-10-21,
+739,ARJUN IVANOVA,arjun.ivanova739@example.com,United States of America,2019-08-14,-1
+740,Priya Khan,priya.khan740@example.com,U.S.,2020-02-19,26
+741,kenji patel,kenji.patel741@example.com,USA,2023-08-17,20
+742,Arjun Kim,  arjun.kim742@example.com ,Germany,2022-09-04,36
+743,Amara Brown,amara.brown743@example.com,United States of America,2022-06-14,39
+744,Fatima Tanaka,  fatima.tanaka744@example.com ,england,28/09/2022,61
+745,WEI SMITH,wei.smith745@example.com,england,2023/05/12,59
+746,  Kenji Kim ,  kenji.kim746@example.com ,us,23/10/2020,26
+747,Sofia Ivanova,sofia.ivanova747@example.com,India,2022-01-30,49
+748,Sofia Chen,  sofia.chen748@example.com ,UK,Jan 10 2021,18
+749,Carlos Rossi,carlos.rossi749@example.com,IN,2019-10-23,71
+750,CARLOS IVANOVA,CARLOS.IVANOVA750@EXAMPLE.COM,us,2022/11/26,null
+751,Carlos Chen,CARLOS.CHEN751@EXAMPLE.COM,UK,06-07-2019,18
+752,elena khan,elena.khan752@example.com,India,20/05/2023,59
+753,Arjun Tanaka,arjun.tanaka753@example.com,Bharat,Feb 08 2022,63
+754,  Arjun Kim ,arjun.kim754@example.com,Great Britain,2021/03/31,57
+755,Noah Ivanova,noah.ivanova755@example.com,India,2019-12-04,21
+756,Sofia Rossi,sofia.rossi756@example.com,Great Britain,2022-01-14,24
+757,  Wei Garcia ,null,CA,20230607,48
+758,Arjun Brown,arjun.brown758@example.com,UK,2022-12-10,61
+759,Mary Rossi,MARY.ROSSI759@EXAMPLE.COM,UK,2019/11/07,61
+760,  Fatima Khan ,fatima.khan760@example.com,Bharat,2023-05-28,26
+761,Carlos Dubois,carlos.dubois761@example.com,United States,2023-07-07,18
+762,AMARA NGUYEN,amara.nguyen762@example.com,U.S.,20200727,54
+763,Omar Kim,omar.kim763@example.com,USA,2022-03-10,49
+764,noah brown,noah.brown764@example.com,United States of America,20221029,44
+765,  James Kim ,JAMES.KIM765@EXAMPLE.COM,us,18/08/2020,42
+766,Omar Patel,  omar.patel766@example.com ,us,2020-01-05,64
+767,Grace Okafor,grace.okafor767@example.com,IN,2019-08-23,35
+768,arjun garcia,none,Deutschland,2023-06-06,45
+769,Wei Muller,wei.muller769@example.com,india ,2019-06-17,37
+770,Elena Khan,elena.khan770@example.com,DE,20191203,30
+771,ARJUN SMITH,arjun.smith771@example.com,CA,23/05/2023,75
+772,Noah Smith,NOAH.SMITH772@EXAMPLE.COM,england,2021-07-28,77
+773,Carlos Lopez,carlos.lopez773@example.com,Canada,19/07/2019,20
+774,Liam Smith,liam.smith774@example.com,Deutschland,2023-07-25,150
+775,elena khan,elena.khan775@example.com,us,2019-12-27,47
+776,Amara Patel,amara.patel776@example.com,us,07-09-2023,71
+777,Omar Garcia,omar.garcia777@example.com,Deutschland,20231011,44
+778,omar tanaka,omar.tanaka778@example.com,india ,2019-01-16,78
+779,Sofia Smith,sofia.smith779@example.com,india ,2019-03-08,18
+780,SOFIA IVANOVA,sofia.ivanova780@example.com,england,20220616,59
+781,Fatima Tanaka,fatima.tanaka781@example.com,U.K.,2019/07/23,63
+782,Wei Chen,WEI.CHEN782@EXAMPLE.COM,United States,none,18
+783,omar brown,omar.brown783@example.com,england,05-05-2020,59
+784,Carlos Smith,CARLOS.SMITH784@EXAMPLE.COM,CA,Nov 11 2023,24
+785,Olivia Okafor,olivia.okafor785@example.com,IN,26/07/2019,49
+786,Omar Nguyen,omar.nguyen786@example.com,United Kingdom,20200903,18
+787,james nguyen,NaN,Canada,2023-02-27,34
+788,James Khan,james.khan788@example.com,United Kingdom,2020-03-26,23
+789,grace tanaka,grace.tanaka789@example.com,CA,20210330,77
+790,Amara Nguyen,amara.nguyen790@example.com,U.K.,18/01/2023,49
+791,Olivia Brown,olivia.brown791@example.com,United States of America,2021/07/09,28
+792,Olivia Ivanova,olivia.ivanova792@example.com,USA,23/08/2019,29
+793,priya smith,priya.smith793@example.com,DE,2022-11-10,18
+794,Liam Patel,liam.patel794@example.com,canada,2020-07-23,63
+795,NOAH OKAFOR,noah.okafor795@example.com,england,2019-04-12,69
+796,James Rossi,james.rossi796@example.com,us,2022-08-11,68
+797,Noah Smith,  noah.smith797@example.com ,U.S.,2021-08-20,24
+798,Mary Ivanova,mary.ivanova798@example.com,germany,Nov 27 2022,80
+799,James Kim,james.kim799@example.com,U.S.,2020/10/23,none
+800,MARY MULLER,  mary.muller800@example.com ,us,2019-08-15,21
+801,Omar Patel,omar.patel801@example.com,england,15/10/2020,73
+802,grace dubois,grace.dubois802@example.com,Germany,2020-10-21,67
+803,Liam Chen,liam.chen803@example.com,us,2021-10-09,21
+804,NOAH ROSSI,NOAH.ROSSI804@EXAMPLE.COM,Bharat,20220904,27
+805,  Arjun Okafor ,arjun.okafor805@example.com,USA,2020-07-23,45
+806,James Lopez,  james.lopez806@example.com ,Great Britain,2020-06-30,19
+807,ELENA KHAN,  elena.khan807@example.com ,USA,2021-06-22,35
+808,Grace Tanaka,grace.tanaka808@example.com,United States,2022-10-27,21
+809,  Kenji Silva ,kenji.silva809@example.com,canada,2022-12-03,63
+810,Olivia Rossi,olivia.rossi810@example.com,CA,2020/08/12,0
+811,Wei Nguyen,wei.nguyen811@example.com,United Kingdom,2020-11-11,75
+812,james brown,JAMES.BROWN812@EXAMPLE.COM,india ,2022/04/09,18
+813,Carlos Patel,carlos.patel813@example.com,U.S.,15/09/2020,69
+814,Olivia Rossi,olivia.rossi814@example.com,germany,26/11/2021,-
+815,Sofia Kim,sofia.kim815@example.com,Germany,2021-10-16,19
+816,  Kenji Lopez ,  kenji.lopez816@example.com ,CA,2019-12-25,34
+817,Noah Patel,  noah.patel817@example.com ,India,2023-06-17,47
+818,Carlos Rossi,CARLOS.ROSSI818@EXAMPLE.COM,CA,2022-02-17,60
+819,Mary Dubois,MARY.DUBOIS819@EXAMPLE.COM,germany,01-11-2019,45
+820,Carlos Chen,CARLOS.CHEN820@EXAMPLE.COM,Deutschland,Oct 20 2019,64
+821,  Arjun Tanaka ,  arjun.tanaka821@example.com ,india ,2019/07/20,75
+822,KENJI KIM,kenji.kim822@example.com,IN,2022-02-09,30
+823,  Carlos Lopez ,  carlos.lopez823@example.com ,Deutschland,2021-10-28,-
+824,Wei Kim,WEI.KIM824@EXAMPLE.COM,canada,2020/09/11,68
+825,Carlos Ivanova,carlos.ivanova825@example.com,U.S.,2021/08/05,69
+826,PRIYA ROSSI,priya.rossi826@example.com,canada,09-13-2021,62
+827,  Grace Kim ,  grace.kim827@example.com ,United Kingdom,2022/10/15,58
+828,WEI SMITH,wei.smith828@example.com,Great Britain,2022-05-21,74
+829,Arjun Dubois,arjun.dubois829@example.com,Great Britain,2023-08-07,N/A
+830,Sofia Nguyen,sofia.nguyen830@example.com,canada,2023-02-27,62
+831,priya lopez,PRIYA.LOPEZ831@EXAMPLE.COM,india ,2023-07-25,45
+832,Omar Garcia,OMAR.GARCIA832@EXAMPLE.COM,DE,2019-10-13,47
+833,  Wei Nguyen ,wei.nguyen833@example.com,U.K.,12-21-2020,59
+834,Wei Dubois,wei.dubois834@example.com,india ,2021-08-24,56
+835,olivia ivanova,OLIVIA.IVANOVA835@EXAMPLE.COM,us,2019-04-03,19
+836,Sofia Patel,sofia.patel836@example.com,U.K.,2023-01-31,75
+837,  Olivia Smith ,olivia.smith837@example.com,UK,2020-10-19,24
+838,Sofia Okafor,none,United Kingdom,2021-06-07,70
+839,olivia tanaka,olivia.tanaka839@example.com,canada,2022-01-24,73
+840,GRACE BROWN,GRACE.BROWN840@EXAMPLE.COM,Deutschland,2022/06/20,75
+841,Amara Patel,AMARA.PATEL841@EXAMPLE.COM,U.S.,Oct 18 2021,32
+842,Wei Nguyen,wei.nguyen842@example.com,Deutschland,03/06/2019,52
+843,grace muller,grace.muller843@example.com,USA,2019-03-08,39
+844,Mary Silva,mary.silva844@example.com,India,2019-05-30,69
+845,WEI DUBOIS,wei.dubois845@example.com,england,2020-07-08,64
+846,sofia smith,sofia.smith846@example.com,United States,2019-02-23,67
+847,CARLOS TANAKA,carlos.tanaka847@example.com,india ,2022-01-30,26
+848,Sofia Chen,sofia.chen848@example.com,Canada,none,32
+849,MARY CHEN,  mary.chen849@example.com ,USA,20190917,46
+850,Priya Chen,priya.chen850@example.com,USA,2020-05-27,78
+851,Amara Silva,AMARA.SILVA851@EXAMPLE.COM,canada,20200701,38
+852,  Carlos Silva ,carlos.silva852@example.com,DE,28/02/2023,53
+853,Priya Smith,  priya.smith853@example.com ,India,2023-09-09,20
+854,arjun ivanova,arjun.ivanova854@example.com,india ,2019-04-01,32
+855,Noah Muller,noah.muller855@example.com,canada,Mar 19 2020,66
+856,Arjun Rossi,arjun.rossi856@example.com,CA,2021-08-07,45
+857,james muller,null,germany,2019-06-25,33
+858,james patel,james.patel858@example.com,Deutschland,2022-03-10,60
+859,Liam Tanaka,liam.tanaka859@example.com,us,2022-04-01,78
+860,Grace Kim,GRACE.KIM860@EXAMPLE.COM,United Kingdom,2022-07-14,29
+861,Noah Garcia,noah.garcia861@example.com,canada,2023/01/09,32
+862,MARY SILVA,MARY.SILVA862@EXAMPLE.COM,germany,2019/08/12,22
+863,  Elena Rossi ,elena.rossi863@example.com,U.K.,2019-02-20,38
+864,Fatima Brown,FATIMA.BROWN864@EXAMPLE.COM,U.S.,2020-08-18,77
+865,Olivia Okafor,  olivia.okafor865@example.com ,India,20230829,55
+866,Elena Patel,elena.patel866@example.com,Canada,2023/06/23,21
+867,SOFIA BROWN,sofia.brown867@example.com,england,2021-07-22,38
+868,olivia dubois,olivia.dubois868@example.com,canada,2020-04-16,46
+869,Carlos Muller,carlos.muller869@example.com,Deutschland,30/11/2020,38
+870,Omar Smith,omar.smith870@example.com,UK,2019/09/05,N/A
+871,Wei Kim,  wei.kim871@example.com ,canada,2023-11-11,51
+872,Noah Patel,noah.patel872@example.com,us,2019-06-01,65
+873,Fatima Chen,fatima.chen873@example.com,UK,2019-01-16,55
+874,Priya Silva,priya.silva874@example.com,Deutschland,2021-10-07,39
+875,Carlos Garcia,  carlos.garcia875@example.com ,UK,2021-05-31,51
+876,fatima rossi,fatima.rossi876@example.com,DE,2022-05-26,66
+877,liam smith,liam.smith877@example.com,Bharat,2023-09-01,70
+878,Priya Patel,priya.patel878@example.com,India,20210604,49
+879,Sofia Chen,sofia.chen879@example.com,Germany,11-17-2019,50
+880,Elena Patel,none,canada,2020-10-12,30
+881,sofia okafor,sofia.okafor881@example.com,Germany,20210820,27
+882,James Tanaka,JAMES.TANAKA882@EXAMPLE.COM,United States of America,2021-10-01,53
+883,Grace Nguyen,grace.nguyen883@example.com,germany,2023-09-18,32
+884,AMARA TANAKA,amara.tanaka884@example.com,India,2020-10-28,33
+885,grace dubois,grace.dubois885@example.com,CA,2021-04-23,61
+886,noah tanaka,NOAH.TANAKA886@EXAMPLE.COM,IN,2023-07-15,46
+887,Elena Silva,ELENA.SILVA887@EXAMPLE.COM,canada,2023-11-29,none
+888,  James Ivanova ,james.ivanova888@example.com,United States,2023-05-18,63
+889,  Fatima Ivanova ,fatima.ivanova889@example.com,UK,Aug 17 2020,NaN
+890,PRIYA IVANOVA,priya.ivanova890@example.com,India,2019-03-28,28
+891,Arjun Kim,arjun.kim891@example.com,Germany,2023-11-01,23
+892,Carlos Patel,  carlos.patel892@example.com ,canada,06-12-2023,43
+893,PRIYA MULLER,priya.muller893@example.com,CA,2021-08-23,42
+894,Arjun Smith,arjun.smith894@example.com,India,2023-01-30,43
+895,PRIYA ROSSI,priya.rossi895@example.com,Deutschland,2019-10-22,69
+896,  Grace Silva ,  grace.silva896@example.com ,U.S.,21/04/2023,49
+897,  Kenji Okafor ,kenji.okafor897@example.com,canada,2023-06-16,49
+898,Wei Patel,wei.patel898@example.com,IN,2022-12-03,22
+899,ELENA DUBOIS,elena.dubois899@example.com,United Kingdom,2022-07-06,69
+900,KENJI KHAN,kenji.khan900@example.com,canada,20210131,54
+901,Grace Lopez,grace.lopez901@example.com,england,2020-11-07,77
+902,WEI SMITH,wei.smith902@example.com,Deutschland,2022-12-07,30
+903,Sofia Brown,sofia.brown903@example.com,U.S.,30/01/2020,35
+904,liam chen,liam.chen904@example.com,canada,2019-11-09,24
+905,Kenji Dubois,KENJI.DUBOIS905@EXAMPLE.COM,UK,2019-12-11,
+906,Mary Kim,  mary.kim906@example.com ,Canada,2023-07-12,46
+907,GRACE BROWN,grace.brown907@example.com,DE,Sep 14 2023,51
+908,ELENA LOPEZ,elena.lopez908@example.com,IN,2022-11-24,68
+909,Olivia Tanaka,olivia.tanaka909@example.com,United Kingdom,2022-06-17,53
+910,Amara Khan,null,us,2021-01-25,76
+911,Kenji Garcia,kenji.garcia911@example.com,CA,2023-08-14,19
+912,priya garcia,priya.garcia912@example.com,DE,2019-03-01,57
+913,Omar Garcia,omar.garcia913@example.com,Germany,2019-07-19,72
+914,Fatima Brown,fatima.brown914@example.com,Canada,2019/01/30,78
+915,Wei Nguyen,wei.nguyen915@example.com,India,2019-04-02,35
+916,OMAR CHEN,omar.chen916@example.com,canada,N/A,23
+917,liam brown,liam.brown917@example.com,IN,06-16-2019,74
+918,Arjun Rossi,arjun.rossi918@example.com,UK,2020-07-25,26
+919,Kenji Chen,kenji.chen919@example.com,IN,2020-12-28,55
+920,liam tanaka,  liam.tanaka920@example.com ,germany,2022-08-16,69
+921,omar muller,OMAR.MULLER921@EXAMPLE.COM,U.S.,2019-08-25,51
+922,Noah Patel,  noah.patel922@example.com ,DE,Nov 16 2023,999
+923,Fatima Smith,fatima.smith923@example.com,IN,2023-07-16,57
+924,Arjun Rossi,arjun.rossi924@example.com,U.S.,20231202,NaN
+925,Fatima Rossi,fatima.rossi925@example.com,canada,2022-11-29,78
+926,AMARA KIM,AMARA.KIM926@EXAMPLE.COM,germany,2021-07-28,43
+927,Elena Chen,ELENA.CHEN927@EXAMPLE.COM,United Kingdom,2019-11-12,61
+928,GRACE IVANOVA,GRACE.IVANOVA928@EXAMPLE.COM,IN,2022-12-17,33
+929,Elena Ivanova,elena.ivanova929@example.com,canada,2019-05-27,40
+930,james ivanova,james.ivanova930@example.com,U.S.,2022-08-15,32
+931,Amara Ivanova,amara.ivanova931@example.com,India,2019-03-13,34
+932,Priya Ivanova,none,us,2019-11-26,38
+933,  Priya Lopez ,priya.lopez933@example.com,Canada,20210202,67
+934,Wei Kim,wei.kim934@example.com,us,2020-11-21,-
+935,Omar Brown,omar.brown935@example.com,United States,2022-05-12,61
+936,JAMES LOPEZ,james.lopez936@example.com,Deutschland,2020-09-01,58
+937,Carlos Dubois,carlos.dubois937@example.com,Bharat,2020-07-16,NaN
+938,Priya Ivanova,  priya.ivanova938@example.com ,Canada,20230125,23
+939,Wei Tanaka,wei.tanaka939@example.com,USA,14/06/2023,30
+940,liam tanaka,liam.tanaka940@example.com,DE,10/03/2023,62
+941,James Tanaka,james.tanaka941@example.com,UK,2020-07-16,35
+942,Amara Lopez,amara.lopez942@example.com,CA,2021-05-11,58
+943,  Omar Dubois ,omar.dubois943@example.com,Great Britain,20211226,62
+944,olivia chen,  olivia.chen944@example.com ,United Kingdom,2023-03-12,51
+945,Elena Tanaka,elena.tanaka945@example.com,United States of America,2023-03-19,80
+946,priya ivanova,priya.ivanova946@example.com,england,2020-03-08,25
+947,Kenji Khan,kenji.khan947@example.com,Deutschland,2022-07-14,24
+948,AMARA LOPEZ,amara.lopez948@example.com,UK,24/11/2023,29
+949,elena tanaka,elena.tanaka949@example.com,India,2020-01-22,58
+950,NOAH SILVA,  noah.silva950@example.com ,england,2022-03-11,58
+951,Fatima Lopez,fatima.lopez951@example.com,DE,2023-01-20,73
+952,omar lopez,omar.lopez952@example.com,United Kingdom,2022/11/01,56
+953,Fatima Silva,fatima.silva953@example.com,Bharat,2023/01/18,79
+954,Kenji Patel,kenji.patel954@example.com,CA,2022/08/18,-
+955,Omar Tanaka,omar.tanaka955@example.com,USA,2019-08-01,27
+956,Sofia Dubois,sofia.dubois956@example.com,UK,06-25-2020,24
+957,Noah Lopez,NOAH.LOPEZ957@EXAMPLE.COM,DE,Mar 09 2022,35
+958,Amara Nguyen,amara.nguyen958@example.com,canada,2022-07-22,37
+959,KENJI SILVA,KENJI.SILVA959@EXAMPLE.COM,United States of America,10-09-2023,31
+960,Fatima Brown,  fatima.brown960@example.com ,UK,2022/04/17,72
+961,arjun smith,arjun.smith961@example.com,United States,02/12/2020,32
+962,James Silva,james.silva962@example.com,U.K.,2021-01-14,60
+963,wei garcia,wei.garcia963@example.com,IN,2022-03-06,51
+964,Kenji Muller,kenji.muller964@example.com,U.S.,2023-03-02,30
+965,  Grace Lopez ,grace.lopez965@example.com,United States,2022-01-04,74
+966,Liam Dubois,LIAM.DUBOIS966@EXAMPLE.COM,DE,2022-03-11,18
+967,james muller,james.muller967@example.com,india ,2022-05-16,35
+968,AMARA LOPEZ,amara.lopez968@example.com,us,2023-03-30,78
+969,Amara Patel,amara.patel969@example.com,IN,2020-12-02,58
+970,grace patel,grace.patel970@example.com,DE,2022/06/02,31
+971,Grace Tanaka,grace.tanaka971@example.com,germany,2020-04-13,77
+972,OMAR ROSSI,omar.rossi972@example.com,Bharat,2022-02-27,43
+973,kenji smith,  kenji.smith973@example.com ,england,2020-03-03,60
+974,  Liam Lopez ,liam.lopez974@example.com,Deutschland,20190807,22
+975,ARJUN DUBOIS,ARJUN.DUBOIS975@EXAMPLE.COM,Great Britain,2020-07-27,56
+976,carlos chen,carlos.chen976@example.com,DE,2023-05-07,64
+977,Kenji Rossi,kenji.rossi977@example.com,U.S.,Oct 15 2019,67
+978,fatima khan,fatima.khan978@example.com,India,2020-04-11,47
+979,  Grace Garcia ,grace.garcia979@example.com,canada,2019/05/04,76
+980,Amara Khan,amara.khan980@example.com,United States of America,2023/02/13,22
+981,Liam Chen,liam.chen981@example.com,india ,2023-08-02,35
+982,ELENA SMITH,elena.smith982@example.com,india ,2022/03/23,999
+983,Omar Okafor,omar.okafor983@example.com,Canada,2020-12-27,75
+984,Mary Kim,mary.kim984@example.com,Canada,2020-12-14,79
+985,Liam Brown,liam.brown985@example.com,us,2019/10/09,74
+986,  Mary Lopez ,mary.lopez986@example.com,IN,2021-03-28,30
+987,Fatima Okafor,  fatima.okafor987@example.com ,United States,09-28-2021,65
+988,Priya Lopez,priya.lopez988@example.com,U.S.,2019/01/15,42
+989,Amara Silva,AMARA.SILVA989@EXAMPLE.COM,U.S.,2022-08-25,59
+990,James Kim,JAMES.KIM990@EXAMPLE.COM,canada,15/11/2019,26
+991,fatima tanaka,fatima.tanaka991@example.com,U.K.,2019/12/24,77
+992,Grace Okafor,,germany,2021-04-06,58
+993,Carlos Tanaka,carlos.tanaka993@example.com,U.S.,Jan 09 2022,42
+994,Priya Dubois,priya.dubois994@example.com,India,2021-04-30,72
+995,Carlos Khan,carlos.khan995@example.com,canada,2021-01-18,79
+996,carlos silva,carlos.silva996@example.com,U.S.,2023-03-03,24
+997,OMAR MULLER,omar.muller997@example.com,england,02/11/2020,45
+998,  James Kim ,JAMES.KIM998@EXAMPLE.COM,U.S.,2023-09-07,68
+999,Arjun Lopez,arjun.lopez999@example.com,Great Britain,Jul 17 2021,57
+1000,KENJI KHAN,kenji.khan1000@example.com,india ,2023-05-01,53
+1001,Priya Lopez,PRIYA.LOPEZ988@EXAMPLE.COM,U.S.,2019/01/15,42
+1002,OMAR GARCIA,OMAR.GARCIA557@EXAMPLE.COM,england,2019-11-01,21
+1003,Omar Chen,OMAR.CHEN130@EXAMPLE.COM,DE,09-29-2022,40
+1004,Mary Chen,MARY.CHEN97@EXAMPLE.COM,Germany,2021-06-26,60
+1005,james ivanova,JAMES.IVANOVA233@EXAMPLE.COM,DE,08-01-2019,31
+1006,Arjun Lopez,ARJUN.LOPEZ999@EXAMPLE.COM,Great Britain,Jul 17 2021,57
+1007,Carlos Silva,CARLOS.SILVA469@EXAMPLE.COM,United States,2019-03-17,none
+1008,Priya Chen,PRIYA.CHEN850@EXAMPLE.COM,USA,2020-05-27,78
+1009,Carlos Muller,CARLOS.MULLER114@EXAMPLE.COM,United States,2022-08-06,48
+1010,Arjun Khan,ARJUN.KHAN124@EXAMPLE.COM,england,2021-10-13,62
+1011,Carlos Brown,CARLOS.BROWN564@EXAMPLE.COM,United States of America,01/09/2023,41
+1012,james nguyen,JAMES.NGUYEN730@EXAMPLE.COM,canada,2020-07-15,62
+1013,KENJI IVANOVA,KENJI.IVANOVA303@EXAMPLE.COM,germany,2020/08/25,46
+1014,Omar Chen,OMAR.CHEN130@EXAMPLE.COM,DE,09-29-2022,40
+1015,PRIYA ROSSI,PRIYA.ROSSI895@EXAMPLE.COM,Deutschland,2019-10-22,69
+1016,Kenji Nguyen,KENJI.NGUYEN356@EXAMPLE.COM,CA,2020-06-22,33
+1017,  Omar Dubois ,OMAR.DUBOIS315@EXAMPLE.COM,United States of America,2020-08-30,75
+1018,Kenji Kim,KENJI.KIM464@EXAMPLE.COM,Germany,none,999
+1019,Omar Tanaka,OMAR.TANAKA447@EXAMPLE.COM,Canada,-,47
+1020,Mary Chen,MARY.CHEN567@EXAMPLE.COM,U.S.,2021-11-17,24
+1021,Priya Chen,PRIYA.CHEN850@EXAMPLE.COM,USA,2020-05-27,78
+1022,wei garcia,WEI.GARCIA963@EXAMPLE.COM,IN,2022-03-06,51
+1023,LIAM SMITH,LIAM.SMITH85@EXAMPLE.COM,United States of America,2023-05-31,39
+1024,James Kim,JAMES.KIM990@EXAMPLE.COM,canada,15/11/2019,26
+1025,OMAR SILVA,OMAR.SILVA374@EXAMPLE.COM,us,12/02/2020,47
+1026,Sofia Kim,SOFIA.KIM815@EXAMPLE.COM,Germany,2021-10-16,19
+1027,  Wei Ivanova ,WEI.IVANOVA400@EXAMPLE.COM,Deutschland,2022-09-19,72
+1028,Wei Brown,WEI.BROWN291@EXAMPLE.COM,Deutschland,01-10-2020,25
+1029,Mary Nguyen,MARY.NGUYEN455@EXAMPLE.COM,Bharat,27/03/2021,48
+1030,Grace Nguyen,GRACE.NGUYEN35@EXAMPLE.COM,USA,04/08/2020,50
+1031,Kenji Kim,KENJI.KIM407@EXAMPLE.COM,Great Britain,07/08/2019,26
+1032,Noah Garcia,NOAH.GARCIA725@EXAMPLE.COM,Great Britain,2019-03-25,18
+1033,Carlos Khan,CARLOS.KHAN311@EXAMPLE.COM,canada,2019-04-15,67
+1034,Mary Chen,MARY.CHEN97@EXAMPLE.COM,Germany,2021-06-26,60
+1035,Amara Brown,AMARA.BROWN743@EXAMPLE.COM,United States of America,2022-06-14,39
+1036,Mary Nguyen,MARY.NGUYEN472@EXAMPLE.COM,DE,2019-05-10,
+1037,elena brown,ELENA.BROWN342@EXAMPLE.COM,Canada,2020-07-18,61
+1038,Grace Okafor,GRACE.OKAFOR767@EXAMPLE.COM,IN,2019-08-23,35
+1039,AMARA DUBOIS,AMARA.DUBOIS326@EXAMPLE.COM,canada,2019-08-11,29
+1040,Grace Tanaka,N/A,india ,2021-05-01,63
